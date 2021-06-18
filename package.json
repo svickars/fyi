@@ -47,5 +47,6 @@
     "fetch:sheet": "node scripts/fetch_sheet.js",
     "dev": "npm run dev:livereload",
     "start": "sirv public"
-  }
+  },
+  "dependencies": {}
 }

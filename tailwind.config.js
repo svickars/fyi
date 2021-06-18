@@ -27,8 +27,7 @@ module.exports = {
     },
     fontFamily: {
       sans: ["Inter", "system-ui", "sans-serif"],
-      serif: ["Tinos", "serif"],
-      mono: ["monospace"],
+      mono: ["Zilla Slab", "monospace"],
     },
     colors: {
       transparent: "transparent",

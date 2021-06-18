@@ -4,7 +4,7 @@
     "doc": [
       {
         "id": "1_xjhTkMC88_WEiW77tkBLsC9pqFn03aTAtIB4jLqLKs",
-        "filepath": "src/assets/copy/markup.json"
+        "filepath": "public/assets/copy/markup.json"
       }
     ],
     "fonts": {
@@ -16,9 +16,9 @@
           "italics": []
         },
         {
-          "name": "Tinos",
-          "weights": ["400", "700"],
-          "italics": ["400", "700"]
+          "name": "Zilla Slab",
+          "weights": ["400", "500", "700"],
+          "italics": []
         }
       ]
     }
