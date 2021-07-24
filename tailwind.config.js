@@ -11,8 +11,8 @@ module.exports = {
   ],
   purge: {
     content: [
-      "./components/**/*.{js,svelte,html}",
-      "./components/*.{js,svelte,html}"
+      "./src/components/**/*.{js,svelte,html}",
+      "./src/components/*.{js,svelte,html}"
     ],
     enabled: production,
     options: {
