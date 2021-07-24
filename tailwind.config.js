@@ -13,7 +13,7 @@ module.exports = {
     content: ["./src/**/*.svelte", "./public/**/*.svelte", "./src/**/*.js", "./public/**/*.js", "./src/*.html", "./public/index.html"],
     enabled: production,
     options: {
-      safelist: [],
+      safelist: ["./src/**/*.svelte", "./public/**/*.svelte", "./src/**/*.js", "./public/**/*.js", "./src/*.html", "./public/index.html"],
     },
   },
   darkMode: false, // or 'media' or 'class',
