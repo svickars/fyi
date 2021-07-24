@@ -5,6 +5,22 @@
   @tailwind utilities;
   /* purgecss end ignore */
 
+  @layer utilities {
+    @variants responsive {
+      .masonry-3-col {
+        column-count: 3;
+        column-gap: 1em;
+      }
+      .masonry-2-col {
+        column-count: 2;
+        column-gap: 1em;
+      }
+      .break-inside {
+        break-inside: avoid;
+      }
+    }
+  }
+
   @layer base {
     /* FONT CONVERSION */
     /* base = 16px */
@@ -20,6 +36,10 @@
     /* leading-none = line-height 1 */
     /* leading-normal = line-height 1.5 */
     /* leading-relaxed = line-height 1.75 */
+
+    a {
+      @apply text-green-600 underline hover:text-blue-500 transition;
+    }
 
     .h-screen {
       height: 100vh; /* Fallback for browsers that do not support Custom Properties */

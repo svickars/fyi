@@ -29,7 +29,7 @@
 
 <!-- Based on The Pudding -->
 <svelte:head>
-  <title>DF Svelte Template</title>
+  <title>Sam</title>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -69,7 +69,8 @@
   {#if config.typekit.active}
     <link
       rel="stylesheet"
-      href="https://use.typekit.net/{config.typekit.kitId}.css" />
+      href="https://use.typekit.net/{config.typekit.kitId}.css"
+    />
   {/if}
 
   {#if config.google.fonts.active}
