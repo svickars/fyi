@@ -10,10 +10,13 @@ module.exports = {
     // require("tailwindcss-children"),
   ],
   purge: {
-    content: ["./src/**/*.svelte", "./public/**/*.svelte", "./src/**/*.js", "./public/**/*.js", "./src/*.html", "./public/index.html"],
+    content: [
+      "./components/**/*.{js,svelte,html}",
+      "./components/*.{js,svelte,html}"
+    ],
     enabled: production,
     options: {
-      safelist: ["./src/**/*.svelte", "./public/**/*.svelte", "./src/**/*.js", "./public/**/*.js", "./src/*.html", "./public/index.html"],
+      safelist: [],
     },
   },
   darkMode: false, // or 'media' or 'class',
