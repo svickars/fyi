@@ -14,7 +14,7 @@ module.exports = {
       "./src/components/**/*.{js,svelte,html}",
       "./src/components/*.{js,svelte,html}"
     ],
-    enabled: production,
+    enabled: false,
     options: {
       safelist: ["bg-black", "bg-gray-900", "shadow-massive", "animate-pop-up-fast", "animate-pop-delay-0", "animate-pop-delay-1", "animate-pop-delay-2", "animate-pop-delay-3", "animate-pop-delay-4", "animate-pop-hover", "animate-bounce-h"],
     },
