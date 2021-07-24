@@ -16,7 +16,7 @@ module.exports = {
     ],
     enabled: production,
     options: {
-      safelist: [],
+      safelist: ["bg-black", "bg-gray-900", "shadow-massive", "animate-pop-up-fast", "animate-pop-delay-0", "animate-pop-delay-1", "animate-pop-delay-2", "animate-pop-delay-3", "animate-pop-delay-4", "animate-pop-hover", "animate-bounce-h"],
     },
   },
   darkMode: false, // or 'media' or 'class',
