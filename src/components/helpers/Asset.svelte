@@ -12,13 +12,13 @@
 
 <div
   class="relative {width} animate-pop-delay-{i} opacity-0"
-  style="margin-top: {random(-12, 32)}px"
+  style="margin-top: {random(-12, 32)}px; min-height: {clientWidth * 0.75}px"
 >
-  <div
-    class="w-full transition transform bg-center bg-cover rounded shadow-{shadow} filter"
-    style="background-image: url(assets/media/{src}); height:{clientWidth *
-      0.75}px"
-    {title}
+  <img
+    alt={title}
+    src={`assets/media/${src}`}
+    height={clientWidth * 0.75}
+    class="w-full transition rounded shadow-{shadow} filter"
   />
   <div class="absolute top-0 left-0 w-full" bind:clientWidth />
 </div>

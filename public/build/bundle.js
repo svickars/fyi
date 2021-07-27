@@ -4576,79 +4576,92 @@ var app = (function () {
     const file$9 = "src/components/helpers/Asset.svelte";
 
     function create_fragment$a(ctx) {
-    	let div2;
-    	let div0;
-    	let div0_class_value;
-    	let t;
     	let div1;
-    	let div1_resize_listener;
-    	let div2_class_value;
+    	let img;
+    	let img_src_value;
+    	let img_height_value;
+    	let img_class_value;
+    	let t;
+    	let div0;
+    	let div0_resize_listener;
+    	let div1_class_value;
 
     	const block = {
     		c: function create() {
-    			div2 = element("div");
-    			div0 = element("div");
-    			t = space();
     			div1 = element("div");
+    			img = element("img");
+    			t = space();
+    			div0 = element("div");
     			this.h();
     		},
     		l: function claim(nodes) {
-    			div2 = claim_element(nodes, "DIV", { class: true, style: true });
-    			var div2_nodes = children(div2);
-    			div0 = claim_element(div2_nodes, "DIV", { class: true, style: true, title: true });
+    			div1 = claim_element(nodes, "DIV", { class: true, style: true });
+    			var div1_nodes = children(div1);
+
+    			img = claim_element(div1_nodes, "IMG", {
+    				alt: true,
+    				src: true,
+    				height: true,
+    				class: true
+    			});
+
+    			t = claim_space(div1_nodes);
+    			div0 = claim_element(div1_nodes, "DIV", { class: true });
     			children(div0).forEach(detach_dev);
-    			t = claim_space(div2_nodes);
-    			div1 = claim_element(div2_nodes, "DIV", { class: true });
-    			children(div1).forEach(detach_dev);
-    			div2_nodes.forEach(detach_dev);
+    			div1_nodes.forEach(detach_dev);
     			this.h();
     		},
     		h: function hydrate() {
-    			attr_dev(div0, "class", div0_class_value = "w-full transition transform bg-center bg-cover rounded shadow-" + /*shadow*/ ctx[4] + " filter");
-    			set_style(div0, "background-image", "url(assets/media/" + /*src*/ ctx[2] + ")");
-    			set_style(div0, "height", /*clientWidth*/ ctx[5] * 0.75 + "px");
-    			attr_dev(div0, "title", /*title*/ ctx[1]);
-    			add_location(div0, file$9, 16, 2, 298);
-    			attr_dev(div1, "class", "absolute top-0 left-0 w-full");
-    			add_render_callback(() => /*div1_elementresize_handler*/ ctx[6].call(div1));
-    			add_location(div1, file$9, 22, 2, 503);
-    			attr_dev(div2, "class", div2_class_value = "relative " + /*width*/ ctx[0] + " animate-pop-delay-" + /*i*/ ctx[3] + " opacity-0");
-    			set_style(div2, "margin-top", random(-12, 32) + "px");
-    			add_location(div2, file$9, 12, 0, 188);
+    			attr_dev(img, "alt", /*title*/ ctx[1]);
+    			if (img.src !== (img_src_value = `assets/media/${/*src*/ ctx[2]}`)) attr_dev(img, "src", img_src_value);
+    			attr_dev(img, "height", img_height_value = /*clientWidth*/ ctx[5] * 0.75);
+    			attr_dev(img, "class", img_class_value = "w-full transition rounded shadow-" + /*shadow*/ ctx[4] + " filter");
+    			add_location(img, file$9, 16, 2, 334);
+    			attr_dev(div0, "class", "absolute top-0 left-0 w-full");
+    			add_render_callback(() => /*div0_elementresize_handler*/ ctx[6].call(div0));
+    			add_location(div0, file$9, 22, 2, 487);
+    			attr_dev(div1, "class", div1_class_value = "relative " + /*width*/ ctx[0] + " animate-pop-delay-" + /*i*/ ctx[3] + " opacity-0");
+    			set_style(div1, "margin-top", random(-12, 32) + "px");
+    			set_style(div1, "min-height", /*clientWidth*/ ctx[5] * 0.75 + "px");
+    			add_location(div1, file$9, 12, 0, 188);
     		},
     		m: function mount(target, anchor) {
-    			insert_dev(target, div2, anchor);
-    			append_dev(div2, div0);
-    			append_dev(div2, t);
-    			append_dev(div2, div1);
-    			div1_resize_listener = add_resize_listener(div1, /*div1_elementresize_handler*/ ctx[6].bind(div1));
+    			insert_dev(target, div1, anchor);
+    			append_dev(div1, img);
+    			append_dev(div1, t);
+    			append_dev(div1, div0);
+    			div0_resize_listener = add_resize_listener(div0, /*div0_elementresize_handler*/ ctx[6].bind(div0));
     		},
     		p: function update(ctx, [dirty]) {
-    			if (dirty & /*shadow*/ 16 && div0_class_value !== (div0_class_value = "w-full transition transform bg-center bg-cover rounded shadow-" + /*shadow*/ ctx[4] + " filter")) {
-    				attr_dev(div0, "class", div0_class_value);
+    			if (dirty & /*title*/ 2) {
+    				attr_dev(img, "alt", /*title*/ ctx[1]);
     			}
 
-    			if (dirty & /*src*/ 4) {
-    				set_style(div0, "background-image", "url(assets/media/" + /*src*/ ctx[2] + ")");
+    			if (dirty & /*src*/ 4 && img.src !== (img_src_value = `assets/media/${/*src*/ ctx[2]}`)) {
+    				attr_dev(img, "src", img_src_value);
+    			}
+
+    			if (dirty & /*clientWidth*/ 32 && img_height_value !== (img_height_value = /*clientWidth*/ ctx[5] * 0.75)) {
+    				attr_dev(img, "height", img_height_value);
+    			}
+
+    			if (dirty & /*shadow*/ 16 && img_class_value !== (img_class_value = "w-full transition rounded shadow-" + /*shadow*/ ctx[4] + " filter")) {
+    				attr_dev(img, "class", img_class_value);
+    			}
+
+    			if (dirty & /*width, i*/ 9 && div1_class_value !== (div1_class_value = "relative " + /*width*/ ctx[0] + " animate-pop-delay-" + /*i*/ ctx[3] + " opacity-0")) {
+    				attr_dev(div1, "class", div1_class_value);
     			}
 
     			if (dirty & /*clientWidth*/ 32) {
-    				set_style(div0, "height", /*clientWidth*/ ctx[5] * 0.75 + "px");
-    			}
-
-    			if (dirty & /*title*/ 2) {
-    				attr_dev(div0, "title", /*title*/ ctx[1]);
-    			}
-
-    			if (dirty & /*width, i*/ 9 && div2_class_value !== (div2_class_value = "relative " + /*width*/ ctx[0] + " animate-pop-delay-" + /*i*/ ctx[3] + " opacity-0")) {
-    				attr_dev(div2, "class", div2_class_value);
+    				set_style(div1, "min-height", /*clientWidth*/ ctx[5] * 0.75 + "px");
     			}
     		},
     		i: noop,
     		o: noop,
     		d: function destroy(detaching) {
-    			if (detaching) detach_dev(div2);
-    			div1_resize_listener();
+    			if (detaching) detach_dev(div1);
+    			div0_resize_listener();
     		}
     	};
 
@@ -4678,7 +4691,7 @@ var app = (function () {
     		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console.warn(`<Asset> was created with unknown prop '${key}'`);
     	});
 
-    	function div1_elementresize_handler() {
+    	function div0_elementresize_handler() {
     		clientWidth = this.clientWidth;
     		$$invalidate(5, clientWidth);
     	}
@@ -4714,7 +4727,7 @@ var app = (function () {
     		$$self.$inject_state($$props.$$inject);
     	}
 
-    	return [width, title, src, i, shadow, clientWidth, div1_elementresize_handler];
+    	return [width, title, src, i, shadow, clientWidth, div0_elementresize_handler];
     }
 
     class Asset extends SvelteComponentDev {
