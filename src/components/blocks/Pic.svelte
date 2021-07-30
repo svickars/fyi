@@ -10,7 +10,7 @@
 
 <div class="relative {width} animate-pop-delay-{i} opacity-0">
   <div
-    class="w-full transition transform bg-center bg-cover rounded shadow-{shadow} filter hover:animate-pop-hover"
+    class="w-full transition transform bg-center bg-cover rounded-full shadow-{shadow} filter hover:animate-pop-hover"
     style="background-image: url(assets/media{src}); height:{clientWidth}px"
     {title}
   />

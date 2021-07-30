@@ -10,6 +10,7 @@
   import Pics from "./blocks/Pics.svelte";
   import Intro from "./blocks/Intro.svelte";
   import Portfolio from "./blocks/Portfolio.svelte";
+  import Footer from "./blocks/Footer.svelte";
 
   onMount(() => {
     $mounted = true;
@@ -30,6 +31,7 @@
   <Pics />
   <Intro />
   <Portfolio />
+  <Footer />
 {/if}
 
 <style global lang="postcss">
