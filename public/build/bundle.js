@@ -1555,7 +1555,7 @@ var app = (function () {
     			},
     			{
     				type: "text",
-    				value: "We teamed up with Campaign Zero to create this website, where we walk through Keith Davis&rsquo;s last 6 years: the charges he&rsquo;s face, the trials he&rsquo;s endured, and the web of inconsistencies in the evidence presented against him (cue this <a href=\"https://media.giphy.com/media/l0IykOsxLECVejOzm/giphy.gif\">gif</a>)."
+    				value: "We teamed up with Campaign Zero to create this website, where we walk through Keith Davis&rsquo;s last 6 years: the charges he&rsquo;s faced, the trials he&rsquo;s endured, and the web of inconsistencies in the evidence presented against him (cue this <a href=\"https://media.giphy.com/media/l0IykOsxLECVejOzm/giphy.gif\">gif</a>)."
     			},
     			{
     				type: "text",
