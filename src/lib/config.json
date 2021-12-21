@@ -1,0 +1,34 @@
+{
+  "google": {
+    "sheet": [],
+    "doc": [
+      {
+        "id": "177gK8YFHelSyKMLUXL7aBzFTT0K04u3NV2534qq4xP4",
+        "filepath": "static/copy/markup.json"
+      }
+    ],
+    "fonts": {
+      "active": true,
+      "weights": [
+        {
+          "name": "Inter",
+          "weights": ["400", "500", "700"],
+          "italics": []
+        },
+        {
+          "name": "Zilla Slab",
+          "weights": ["400", "500", "700"],
+          "italics": []
+        }
+      ]
+    }
+  },
+  "fontAwesome": {
+    "active": true,
+    "kitId": "2f5b16c217"
+  },
+  "typekit": {
+    "active": true,
+    "kitId": "mqy7dqx"
+  }
+}
