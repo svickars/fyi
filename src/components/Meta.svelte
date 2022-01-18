@@ -3,31 +3,26 @@
 </script>
 
 <svelte:head>
-	<title>Sam</title>
+	<title>{config.title}</title>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-	<meta name="description" content="" />
-	<meta name="news_keywords" content="" />
+	<meta name="title" content={config.meta.title} />
+	<meta name="description" content={config.meta.description} />
 
-	<meta property="og:title" content="" />
-	<meta property="og:site_name" content="" />
-	<meta property="og:url" content="" />
-	<meta property="og:description" content="description" />
-	<meta property="og:type" content="article" />
-	<meta property="og:locale" content="en_US" />
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content={config.meta.url} />
+	<meta property="og:title" content={config.meta.title} />
+	<meta property="og:description" content={config.meta.description} />
+	<meta property="og:image" content={config.meta.image} />
 
-	<meta property="og:image" content="" />
-	<meta property="og:image:type" content="image/jpeg" />
-	<meta property="og:image:width" content="1200" />
-	<meta property="og:image:height" content="600" />
-
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:site" content="" />
-	<meta name="twitter:creator" content="" />
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:description" content="" />
-	<meta name="twitter:image:src" content="" />
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image" />
+	<meta property="twitter:url" content={config.meta.url} />
+	<meta property="twitter:title" content={config.meta.title} />
+	<meta property="twitter:description" content={config.meta.description} />
+	<meta property="twitter:image" content={config.meta.image} />
 
 	<meta name="robots" content="max-image-preview:large" />
 
