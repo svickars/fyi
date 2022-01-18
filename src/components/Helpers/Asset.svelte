@@ -13,7 +13,7 @@
 </script>
 
 <div
-	class="relative {width} animate-pop-delay-{i} opacity-100"
+	class="relative {width} animate-pop-delay-{i} opacity-0"
 	style="margin-top: {random(-12, 32)}px; min-height: {clientWidth * 0.75}px"
 >
 	<img

@@ -71,6 +71,6 @@
 
 <div class="hidden">
 	<div
-		class="bg-black bg-gray-50 bg-gray-900 animate-pop-delay-0 animate-pop-delay-1 animate-pop-delay-2 animate-pop-delay-3 animate-pop-delay-4 sm:block"
+		class="bg-black bg-gray-50 bg-gray-900 animate-pop-delay-0 animate-pop-delay-1 animate-pop-delay-2 animate-pop-delay-3 animate-pop-delay-4 sm:block col-span-4 md:col-span-12 -mt-2"
 	/>
 </div>
