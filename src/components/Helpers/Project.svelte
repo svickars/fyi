@@ -7,10 +7,10 @@
 	import { currentProject } from '../../stores/url';
 	import { scrollY, windowH } from '../../stores/scroll';
 
-	import IconText from '../helpers/IconText.svelte';
-	import Link from '../helpers/Link.svelte';
-	import Launch from '../helpers/Launch.svelte';
-	import Asset from '../helpers/Asset.svelte';
+	import IconText from './IconText.svelte';
+	import Link from './Link.svelte';
+	import Launch from './Launch.svelte';
+	import Asset from './Asset.svelte';
 
 	export let project;
 
