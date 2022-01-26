@@ -7,8 +7,6 @@
 	export let i;
 	export let shadow = 'none';
 
-	console.log(src);
-
 	let clientWidth;
 </script>
 

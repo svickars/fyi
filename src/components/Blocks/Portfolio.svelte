@@ -26,10 +26,6 @@
 			$allClosed = false;
 		}
 	}
-
-	$: console.log($projects);
-	$: console.log($markup);
-	$: console.log($filter);
 </script>
 
 <div class="w-full animate-pop-up-fast mb-60">
