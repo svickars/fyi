@@ -13,7 +13,16 @@ const config = {
 		adapter: adapter(),
 		target: '#svelte',
 		vite: {
-			plugins: [svg()]
+			plugins: [svg()],
+			resolve: {
+				alias: {
+					$actions: path.resolve('./src/actions'),
+					$components: path.resolve('./src/components'),
+					$data: path.resolve('./src/data'),
+					$stores: path.resolve('./src/stores'),
+					$utils: path.resolve('./src/utils')
+				}
+			}
 		}
 	}
 };
