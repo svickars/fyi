@@ -1,5 +1,5 @@
 {
-  "name": "SamVickarsFYI",
+  "name": "fyi",
   "version": "2.0.0",
   "scripts": {
     "dev": "svelte-kit dev --host",
@@ -11,41 +11,40 @@
     "fetch:sheet": "node scripts/fetch_sheet.js"
   },
   "devDependencies": {
-    "@poppanator/sveltekit-svg": "^0.1.4",
+    "@rollup/plugin-dsv": "^2.0.3",
     "@sveltejs/adapter-netlify": "^1.0.0-next.40",
     "@sveltejs/kit": "^1.0.0-next.233",
     "@tailwindcss/forms": "^0.4.0",
     "@tailwindcss/typography": "^0.5.0",
-    "autoprefixer": "^10.4.2",
-    "cssnano": "^5.0.16",
+    "autoprefixer": "^10.4.0",
+    "body-scroll-lock": "^4.0.0-beta.0",
+    "cssnano": "^5.0.8",
+    "d3": "^7.3.0",
     "dotenv": "^10.0.0",
     "email-validator": "^2.0.4",
     "eslint": "^7.22.0",
     "eslint-config-prettier": "^8.1.0",
-    "eslint-plugin-svelte3": "^3.4.0",
-    "fs": "0.0.1-security",
+    "eslint-plugin-svelte3": "^3.2.0",
+    "focus-trap": "^6.7.2",
+    "journalize": "^2.5.1",
+    "layercake": "^5.0.3",
     "postcss": "^8.4.4",
-    "postcss-cli": "^8.3.1",
-    "postcss-easings": "^3.0.1",
     "postcss-load-config": "^3.1.1",
-    "postcss-nesting": "^7.0.1",
-    "postcss-pxtorem": "^6.0.0",
     "prettier": "~2.2.1",
-    "prettier-plugin-svelte": "^2.6.0",
+    "prettier-plugin-svelte": "^2.2.0",
     "query-string": "^7.1.0",
     "svelte": "^3.46.2",
     "svelte-preprocess": "^4.7.4",
-    "tailwindcss": "^3.0.17"
+    "svelte-select": "^4.4.7",
+    "tailwindcss": "^3.0.15",
+    "topojson-client": "^3.1.0"
   },
   "type": "module",
   "dependencies": {
     "archieml": "^0.5.0",
-    "d3": "^7.3.0",
-    "d3-collection": "^1.0.7",
-    "d3-fetch": "^3.0.1",
-    "layercake": "^5.0.0",
-    "request": "^2.88.2",
-    "svelte-select": "^4.4.7",
-    "topojson-client": "^3.1.0"
+    "d3-delaunay": "^6.0.2",
+    "html-entities": "^2.3.2",
+    "htmlparser2": "^7.2.0",
+    "request": "^2.88.2"
   }
 }
