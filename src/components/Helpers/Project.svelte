@@ -68,6 +68,7 @@
 		? 'bg-gray-50'
 		: 'bg-white'}"
 	id={project.id}
+	style="background-color: {open && project.dark ? project.bg : open ? '#f9fafb' : 'white'};"
 	on:mouseover={() => (directLinkVisible = open ? true : false)}
 	on:focus={() => (directLinkVisible = open ? true : false)}
 	on:mouseout={() => (directLinkVisible = false)}
@@ -172,6 +173,11 @@
 							<IconText text={project.with} icon="users" dark={project.dark} />
 						</div>
 					{/if}
+					{#if project.team}
+						<div class="mb-2 lg:mr-6">
+							<IconText text={project.team} icon="users" dark={project.dark} />
+						</div>
+					{/if}
 					{#if project.awards}
 						{#each project.awards as award}
 							<div class="mb-2 lg:mr-6">
@@ -182,19 +188,21 @@
 				</div>
 			</div>
 			{#if project.media}
-				<div class="grid w-full gap-4 px-4 mx-auto my-16 cols-4 md:grid-cols-12 max-w-7xl">
+				<div class="flex flex-nowrap space-x-4 px-4 mx-auto my-16 max-w-7xl">
 					{#each project.media as pic, i}
-						<Asset width={pic.size} title={pic.alt} src={pic.src} {i} />
+						<Asset title={pic.alt} src={pic.src} {i} />
 					{/each}
 				</div>
 			{/if}
 			<div class="w-full max-w-5xl px-8 pb-6 mx-auto">
 				<div style="padding-left: {arrowW + 12}px">
-					{#each project.description as text}
-						<p class="max-w-3xl mb-4 font-sans text-base leading-relaxed md:text-lg lg:text-xl">
-							{@html text.value}
-						</p>
-					{/each}
+					{#if project.description}
+						{#each project.description as text}
+							<p class="max-w-3xl mb-4 font-sans text-base leading-relaxed md:text-lg lg:text-xl">
+								{@html text.value}
+							</p>
+						{/each}
+					{/if}
 					{#if project.links}
 						<Launch colour={project.dark ? 'white' : project.color} href={project.links[0].href} />
 					{/if}

@@ -1,1 +1,1640 @@
-{"headline":[{"type":"text","value":"Hi, I'm Sam. I tell visual stories using data, graphics, and interactivity."},{"type":"text","value":"It's so nice to meet you."}],"pics":[{"src":"/moving-pictures/IzzyInTheSnow.gif","alt":"Here is my derp of a dog, Izzy, playing in the snow in Squamish, BC","width":"col-span-3 md:col-span-3"},{"src":"/pictures/IzzyAtGraduation.jpg","alt":"My dog Izzy and I at her graduation from puppy school","width":"hidden md:block md:col-span-2 mt-8"},{"src":"/pictures/Swinging.jpg","alt":"Here I am enjoying a rope swing on the beach at Cape Scott on Northern Vancouver Island","width":"hidden md:block col-span-2 mt-32"},{"src":"/pictures/TheBoys.JPG","alt":"My brother, my dad, and I attending a Blue Jays game during the pandemic in Buffalo as cardboard cutouts","width":"col-span-2 md:col-span-3 -mt-8"},{"src":"/pictures/IzzyAtChristmas.jpg","alt":"My dog, Izzy, dressed up for Christmas","width":"col-span-3 md:col-span-2 mt-8 md:mt-20"}],"lead":[{"type":"text","value":"I&rsquo;m currently the design manager at <a href=\"http://thedataface.com\">The DataFace</a>, working remotely, but based in Vancouver, BC, and working at the intersection of data science, journalism, design, and web development."}],"intro":[{"type":"text","value":"I have a bachelor's degree from the University of Waterloo School of Architecture and a Master's of Science in Data Visualization from Parsons in NYC."},{"type":"text","value":"I&rsquo;m also an eight-time local pub trivia champion, along with my twin brother; the current scoring leader in one of the lowest-division adult hockey leagues in the city; and an early pioneer of the Circle Line Pub Crawl."},{"type":"text","value":"You can see some of my work below and if you want to get in touch, you can email me at <a href=\"mailto:sam.vickars@gmail.com\">sam.vickars@gmail.com</a> &mdash; I&rsquo;m almost always down for a chat. If you add me on Twitter, <a href=\"http://twitter.com/samvickars\">@samvickars</a>, I&rsquo;ll probably follow you back."}],"conclusion":"I made this site using <a href=\"https://svelte.dev/\">Svelte</a>, and <a href=\"http://archieml.org/\">ArchieML</a>. The whole thing runs off this <a https://docs.google.com/document/d/177gK8YFHelSyKMLUXL7aBzFTT0K04u3NV2534qq4xP4/edit\">Google Doc</a>. It's hosted on Github pages and uses Inter, a Google Font.","not-work":[{"src":"Advent-Calendar-1.jpg","title":"An advent calendar I made for my brother in law, ready to be filled with beers."},{"src":"Advent-Calendar-2.jpg","title":"An advent calendar I made for my brother in law, ready to be filled with beers."},{"src":"Advent-Calendar-3.jpg","title":"An advent calendar I made for my brother in law, ready to be filled with beers, with a secret back!"},{"src":"Colour-Box-Bar.jpeg","title":"Colour Box Bar: a stationary bar I built for my new house."},{"src":"Colour-Box-Bar-2.jpeg","title":"Colour Box Bar: a stationary bar I built for my new house."},{"src":"Izzys-Big-Day.jpeg","title":"Izzy’s Big Day: My sweet girl at her graduation from (not a) puppy school."},{"src":"West-Coast-Headboard.jpeg","title":"West Coast Headboard: a live-edge bed I built and installed."},{"src":"San-Josef-Bay.jpeg","title":"San Josef Bay: a trip I took in summer 2020 to Cape Scott, where I camped on the beach at San Josef Bay."},{"src":"Employee-of-the-Month.jpeg","title":"Meet Izzy, a 2, 3, or 4 year-old mutt I found wandering around the SPCA in Vancouver."},{"src":"IIBA.png","title":"My brother and I celebrating my win at the Information is Beautiful Awards in 2019 in London."},{"src":"Oscar-The-Grouch.png","title":"My nephew and I dressed as  a couple of grouches for Halloween: Oscar and Arnold."},{"src":"Worlds.png","title":"World Box Lacrosse Championships 2019, Scottish National Team, #42"},{"src":"Published.png","title":"My first published book, Globalography."}],"work":[{"title":"The Yelp Economic Average","id":"yelp-economic-average","date":"July 2021","type":"Yelp","client":"Yelp <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Development","color":"#EB5757","team":"Jack Beckwith + Michael Hester + Yelp Comms Team + Yelp Data Science Team","links":[{"text":"Explore","href":"https://yelpeconomicaverage.com"}],"awards":[{"icon":"star","text":"PRWeek US 2021 Winner: Data Insight"},{"icon":"hand-point-right","text":"Featured in the Wall Street Journal, New York Times, Bloomberg and Axios, and on CNN, CNBC, and CBS This Morning"}],"description":[{"type":"text","value":"The Yelp Economic Average tracks the performance of local economies across the United States using Yelp data. The DataFace has been working with Yelp&rsquo;s communications team to produce data-driven stories since 2018, including quarterly YEA reports."},{"type":"text","value":"Since I joined the team, w&rsquo;ve been responsible for two annual reports, six special reports, and countless quarterly reports. We also designed and built <a href=\"http://yelpeconomicaverage.com\">yelpeconomicaverage.com</a>, the new home for YEA. Each report combines interactive and static data viz and graphics, with copy written by the Yelp team."}],"media":[{"src":"portfolio/yea/1.png","alt":"Some of my work on Yelp’s Economic Average.","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/yea/2.png","alt":"Some of my work on Yelp’s Economic Average.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/yea/3.png","alt":"Some of my work on Yelp’s Economic Average.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/yea/4.png","alt":"Some of my work on Yelp’s Economic Average.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]},{"title":"#2021Delivered","id":"2021-delivered","date":"December 2021","type":"Instacart","filter":"selected","selected":"-2","client":"Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Development + Copywriting","color":"#0E421D","team":"Jack Beckwith + Michael Hester + Aria Todd","links":[{"text":"Check it out","href":"https://www.instacart.com/2021-delivered/"}],"description":[{"type":"text","value":"We worked with Instacart&rsquo;s PR, comms, marketing, and data science team to create this Spotify-wrapped-esque experience for Instacart&rsquo;s customers, personalized to their locations."},{"type":"text","value":"I designed the entire experience, with help from Michael Hester, Aria Todds, and the Instacart marketing team, and worked with Michael Hester to develop the project in the weeks leading up to December, 2021."}],"media":[{"src":"portfolio/2021-delivered/1.png","alt":"Some of my work on Instacart’s 2021 delivered experience.","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/2021-delivered/2.png","alt":"Some of my work on Instacart’s 2021 delivered experience.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/2021-delivered/3.png","alt":"Some of my work on Instacart’s 2021 delivered experience.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/2021-delivered/4.png","alt":"Some of my work on Instacart’s 2021 delivered experience.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]},{"title":"FreeKeithDavisJr","id":"keith-davis-jr","date":"July 2021","type":"Campaign Zero","filter":"selected","selected":"-1","client":"Campaign Zero <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Development + Copywriting","color":"#F2C94C","dark":"true","bg":"black","team":"Jack Beckwith + Michael Hester + Aria Todd + Omar Nema + DeRay Mckesson + Katie Ryan","links":[{"text":"See the Site","href":"https://keithdavisjr.com/"}],"description":[{"type":"text","value":"Keith Davis Jr. was cornered by police in a West Baltimore garage in 2015, where they shot at him 44 times, striking him multiple times. Keith Davis Jr. was supposed to die, but instead he&rsquo;s endured trial after trial, simply for surviving."},{"type":"text","value":"Baltimore&rsquo;s state attorney Marilyn Mosby chose to protect the officers and prosecute Keith for crimes he did not commit. For more than 6 years, Keith has been the victim of inconsistent testimony, tampered evidence, and unjust trials."},{"type":"text","value":"We teamed up with Campaign Zero to create this website, where we walk through Keith Davis&rsquo;s last 6 years: the charges he&rsquo;s faced, the trials he&rsquo;s endured, and the web of inconsistencies in the evidence presented against him (cue this <a href=\"https://media.giphy.com/media/l0IykOsxLECVejOzm/giphy.gif\">gif</a>)."},{"type":"text","value":"I played a big role in the design of the site, along with Aria Todd, and the development, with Michael Hester and Omar Nema."}],"media":[{"src":"portfolio/keith-davis-jr/1.gif","alt":"Some of my work on Campaign Zero’s Free Keith Davis Jr. project.","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/keith-davis-jr/2.png","alt":"Some of my work on Campaign Zero’s Free Keith Davis Jr. project.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/keith-davis-jr/3.png","alt":"Some of my work on Campaign Zero’s Free Keith Davis Jr. project.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/keith-davis-jr/4.png","alt":"Some of my work on Campaign Zero’s Free Keith Davis Jr. project.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]},{"title":"America&rsquo;s Favorite Ice Cream","id":"we-all-scream-for-ice-cream","date":"May 2021","type":"Instacart","client":"Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Data Analysis","color":"#0AAD0A","team":"Jack Beckwith + Michael Hester + Catalina Perez","description":[],"media":[{"src":"portfolio/we-all-scream-for-ice-cream/1.png","alt":"A map of America’s favourite ice cream flavours.","size":"col-span-4 md:col-span-12 -mt-2"}]},{"title":"America&rsquo;s Favorite Halloween Candy","id":"halloween-candy","date":"October 2021","type":"Instacart","client":"Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Data Analysis","color":"#0AAD0A","team":"Jack Beckwith + Michael Hester + Aria Todd","description":[],"media":[{"src":"portfolio/instacart-halloween/1.png","alt":"Some of my work for Instacart’s project on America’s favourite halloween candies","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/instacart-halloween/2.png","alt":"Some of my work for Instacart’s project on America’s favourite halloween candies","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/instacart-halloween/3.png","alt":"Some of my work for Instacart’s project on America’s favourite halloween candies","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/instacart-halloween/4.png","alt":"Some of my work for Instacart’s project on America’s favourite halloween candies","size":"col-span-4 md:col-span-3 -mt-2"}]},{"title":"Pumpkin Spiced America","id":"pumpkin-spice","date":"September 2021","type":"Instacart","client":"Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Data Analysis","color":"#BC5B12","team":"Jack Beckwith + Michael Hester + Aria Todd","description":[],"media":[{"src":"portfolio/instacart-pumpkin-spiced/1.png","alt":"Some of my work for Instacart’s project on America’s love of pumpkin-spiced everything","size":"col-span-4 md:col-span-12 -mt-2"}]},{"title":"Controversial Condiments","id":"controversial-condiments","date":"September 2021","type":"Instacart","client":"Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Data Analysis","color":"#EB3A38","team":"Jack Beckwith + Michael Hester + Aria Todd","description":[],"media":[{"src":"portfolio/controversial-condiments/1.png","alt":"Some of my work for Instacart’s project on America’s favourite condiments and sauces","size":"col-span-4 md:col-span-12 -mt-2"}]},{"title":"The Retirement Security Report","id":"equable-rsr","date":"June 2021","type":"Equable","filter":"all","client":"Equable <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Development","color":"#2D9CDB","team":"Jack Beckwith + Michael Hester + Aria Todd","links":[{"text":"Check out the report","href":"https://equable.org/rsr/"}],"description":[{"type":"text","value":"Equable is a bipartisan, collaborative organization sitting on a wealth of data on pensions and retirement plans across the United States."},{"type":"text","value":"The Equable team reached out to us looking to create what they called the Retirement Security Report. They analyzed 335 retirement plans across 50 states + D.C. across 11 metrics to determine if plans are providing a path to retirement income security for all public workers."},{"type":"text","value":"We went above and beyond, creating a fully interactive report with a downloadable PDF, retirement savings calculator, and integrated data viz."}],"media":[{"src":"portfolio/equable-rsr/1.png","alt":"Some of my work on Equable’s Retirement Security Report.","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/equable-rsr/2.png","alt":"Some of my work on Equable’s Retirement Security Report.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/equable-rsr/3.png","alt":"Some of my work on Equable’s Retirement Security Report.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/equable-rsr/4.png","alt":"Some of my work on Equable’s Retirement Security Report.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]},{"title":"Plant Power","id":"plant-based-report","date":"May 2021","type":"Instacart","client":"Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Data Analysis","color":"#0AAD0A","team":"Jack Beckwith + Michael Hester + Catalina Perez","links":[{"text":"Read the article","href":"https://www.instacart.com/company/blog/company-updates/plant-power-how-meat-and-milk-alternatives-are-taking-over-our-carts"}],"description":[],"media":[{"src":"portfolio/plant-based-report/1.png","alt":"Some of my work on Instacart’s Plant Power report.","size":"col-span-4 md:col-span-4 -mt-2"},{"src":"portfolio/plant-based-report/2.png","alt":"Some of my work on Instacart’s Plant Power report.","size":"col-span-4 md:col-span-4 mt-4 hidden sm:block"},{"src":"portfolio/plant-based-report/3.png","alt":"Some of my work on Instacart’s Plant Power report.","size":"col-span-4 md:col-span-4 mt-7 hidden md:block"}]},{"title":"STAATUS Index","id":"laaunch-staatus","date":"May 2021","type":"LAAUNCH","client":"LAAUNCH <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Development","color":"#EB5757","team":"Jack Beckwith + Michael Hester + Aria Todd + Catalina Perez","dark":"true","bg":"gray-900","filter":"selected","selected":"2","links":[{"text":"Explore the digital site","href":"https://staatus-index.laaunch.org/"},{"text":"Download the report","href":"https://assets.website-files.com/60a45c372eb2698f9ce47814/60cbd3f12cff2a5387e008ba_staatus-index-2021-final.pdf"}],"description":[{"type":"text","value":"We worked closely with LAAUNCH, a non profit fighting racism and increasing Asian American representaion, to bring life to their STAATUS Index."},{"type":"text","value":"LAAUNCH surveyed thousands of Americans, asking questions like &ldquo;how do people perceive the treatment of their own racial/ethnic group&rdquo; and &ldquo;When you think of prominent Asian Americans, what specific names come to mind, if any?&rdquo; The results were eye-opening, and visualized here digitally and in a PDF."}],"media":[{"src":"portfolio/laaunch-staatus/1.png","alt":"Some of my work on LAAUNCH’s STAATUS index.","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/laaunch-staatus/2.png","alt":"Some of my work on LAAUNCH’s STAATUS index.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/laaunch-staatus/3.png","alt":"Some of my work on LAAUNCH’s STAATUS index.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/laaunch-staatus/4.png","alt":"Some of my work on LAAUNCH’s STAATUS index.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]},{"title":"Beyond the Cart: A Year of Essential Insights","id":"beyond-the-cart","date":"April 2021","type":"Instacart","client":"Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Data Analysis","color":"#0AAD0A","team":"Jack Beckwith + Michael Hester","links":[{"text":"Read the article","href":"https://news.instacart.com/beyond-the-cart-a-year-of-essential-insights-b6ac201228e6"}],"description":[],"media":[{"src":"portfolio/beyond-the-cart/1.png","alt":"Some of my work on Instacart’s COVID-19 report.","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/beyond-the-cart.png","alt":"Some of my work on Instacart’s COVID-19 report.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/beyond-the-cart/3.png","alt":"Some of my work on Instacart’s COVID-19 report.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/beyond-the-cart/4.png","alt":"Some of my work on Instacart’s COVID-19 report.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]},{"title":"Let&rsquo;s Play Mad Libs","id":"mad-libs","date":"December 2020","type":"Experiment","filter":"all","color":"#BB6BD9","links":[{"text":"Play","href":"https://svickars.github.io/mad-libs/"}],"description":[{"type":"text","value":"My first project using the Svelte JS framework, this fun little experiment really took me back. I used the Pudding’s Svelte Starter and Microsoft’s Dataset for Fill-in-the-Blank Humor."}]},{"title":"End All No-Knocks","id":"no-knocks","date":"November 2020","type":"Campaign Zero","filter":"selected","selected":"4","client":"Campaign Zero <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Development","color":"#56CCF2","team":"Jack Beckwith + Michael Hester + DeRay Mckesson + Katie Ryan + Justin Kemerling + Will Donahoe","links":[{"text":"See the Site","href":"https://endallnoknocks.org/"}],"description":[{"type":"text","value":"Breonna Taylor was one of many victims of senseless no-knock raids that happen across the US. While progress has been made to enact legislation to put a stop to no-knock raids, there is still plenty to do."},{"type":"text","value":"We worked with Campaign Zero to design and build this interactive site that both maps case studies across the country and tracks legislation at the state, city, and federal levels."}],"media":[{"src":"portfolio/no-knocks/1.png","alt":"Some of my work on Campaign Zero’s End All No-Knocks project.","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/no-knocks/2.png","alt":"Some of my work on Campaign Zero’s End All No-Knocks project.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/no-knocks/3.png","alt":"Some of my work on Campaign Zero’s End All No-Knocks project.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/no-knocks/4.png","alt":"Some of my work on Campaign Zero’s End All No-Knocks project.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]},{"title":"#NIXTHE6: No More Cop Money","id":"nix-the-six","date":"September 2020","type":"Campaign Zero","filter":"all","client":"Campaign Zero <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Development","color":"#F2994A","team":"Jack Beckwith + Michael Hester + DeRay Mckesson + Katie Ryan","links":[{"text":"See the Site","href":"https://nixthe6.org/contributions/"}],"description":[{"type":"text","value":"Police unions have too much power. It’s time to hold them accountable."},{"type":"text","value":"We worked with Campaign Zero to design and build an interactive map tracking political contributions from law enforcement across the United States, between 2015 and 2020."}],"media":[{"src":"portfolio/nix-the-six/1.png","alt":"Some of my work on Campaign Zero’s NixThe6 project.","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/nix-the-six/2.png","alt":"Some of my work on Campaign Zero’s NixThe6 project.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/nix-the-six/3.png","alt":"Some of my work on Campaign Zero’s NixThe6 project.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/nix-the-six/4.png","alt":"Some of my work on Campaign Zero’s NixThe6 project.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]},{"title":"Healthy Marketplace Index","id":"hcci","date":"August 2020","type":"HCCI","type-icon":"award-simple","filter":"all","client":"Health Care Cost Institute <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Development","color":"#2F80ED","team":"Jack Beckwith + Michael Hester","awards":[{"icon":"award-simple","text":"NIHCM Digital Media Awards 2021 Finalist"},{"icon":"award-simple","text":"Information is Beautiful Awards 2019 Shortlist"}],"links":[{"text":"Launch","href":"https://healthcostinstitute.org/hcci-originals/hmi-interactive"}],"description":[{"type":"text","value":"The Health Cost Institute is a non-profit, healthcare research group based in Washington, D.C., working with grants from the Robert Wood Johnson Foundation. Throughout 2019 and 2020, we worked closely with their team and their data to design and build their Healthy Marketplace Index (HMI)."},{"type":"text","value":"Made up of four fully interactive experiences (<a href=\"https://healthcostinstitute.org/hcci-originals/hmi-interactive#HMI-Price-Index\">Price</a>, <a href=\"https://healthcostinstitute.org/hcci-originals/hmi-interactive#HMI-Use-Index\">Use</a>, <a href=\"https://healthcostinstitute.org/hcci-originals/hmi-interactive#HMI-Price-and-Use\">Price vs Use</a>, and <a href=\"https://healthcostinstitute.org/hcci-originals/hmi-interactive#HMI-Concentration-Index\">Hospital Market Concentration</a>), as well as a <a href=\"https://healthcostinstitute.org/hcci-originals/hmi-interactive\">metro area snapshot</a> and several interactive dashboards, HMI uses nearly 2.5 billion commercial claims from 2013–2017 to track drivers of healthcare spending across 124 US metro areas."}],"media":[{"src":"portfolio/hcci/1.png","alt":"Some of my work on HCCI’s Healthy Marketplace Index.","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/hcci/2.png","alt":"Some of my work on HCCI’s Healthy Marketplace Index.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/hcci/3.png","alt":"Some of my work on HCCI’s Healthy Marketplace Index.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/hcci/4.png","alt":"Some of my work on HCCI’s Healthy Marketplace Index.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]},{"title":"The No Doubter Report","id":"no-doubt","date":"June 2020","type":"DataFace Original","filter":"selected","selected":"7","color":"#219653","links":[{"text":"Launch","href":"http://thedataface.com/2019/09/sports/no-doubter-report"}],"description":[{"type":"text","value":"Pro ballparks come in all shapes and sizes, sometimes due to the shape of the city block on which they were built, sometimes based on a team&rsquo;s strengths (or weaknesses), and sometimes just to add character. Because their shapes differ, a home run hit in one park might not be a home run in another."},{"type":"text","value":"That&rsquo;s what inspired the No Doubter Report. In this project, I look at every home run hit this season to determine which were hit hard enough, long enough, and high enough to leave any major league ballpark, which we&rsquo;ve dubbed &ldquo;No Doubters&rdquo;."}],"media":[{"src":"portfolio/nodoubt/nodoubt.gif","alt":"Screenshot of my project tracking No Doubters in the MLB.","size":"col-span-4 md:col-span-4 -mt-2"},{"src":"portfolio/nodoubt/2.png","alt":"Screenshot of my project tracking No Doubters in the MLB.","size":"col-span-4 md:col-span-4 mt-7 hidden sm:block"},{"src":"portfolio/nodoubt/3.png","alt":"Screenshot of my project tracking No Doubters in the MLB.","size":"col-span-4 md:col-span-4 mt-4 hidden sm:block"}]},{"title":"Healthcare Spending in North Carolina","id":"nc-healthcare","date":"June 2020","type":"HCCI x Duke","filter":"all","client":"Health Care Cost Institute <i class=\"fa-thin fa-xmark\"></i> Duke University <i class=\"fa-thin fa-xmark\"></i> Blue Cross Blue Shield NC <i class=\"fa-thin fa-xmark\"></i> The DataFace","role":"Design + Development","color":"#2F80ED","dark":"true","bg":"gray-900","team":"Jack Beckwith + Michael Hester","links":[{"text":"Launch","href":"https://healthcostinstitute.org/hcci-originals/north-carolina-health-care-spending-analysis"}],"description":[{"type":"text","value":"The Health Care Cost Institute (HCCI), a non-profit research group based in Washington D.C., in collaboration with researchers from Duke University&rsquo;s Margolis Center for Health Policy and Blue Cross Blue Shield of North Carolina, tasked us with building a comprehensive data visualization experience to promote the research."},{"type":"text","value":"We created a visual essay that walked readers through major findings, using interactivity, scrollytelling, and explorable and downloadable content."}],"media":[{"src":"portfolio/nc-healthcare/1.gif","alt":"Some of my work on HCCI’s project on healthcare spending in North Carolina.","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/nc-healthcare/2.png","alt":"Some of my work on HCCI’s project on healthcare spending in North Carolina.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/nc-healthcare/3.png","alt":"Some of my work on HCCI’s project on healthcare spending in North Carolina.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/nc-healthcare/4.png","alt":"Some of my work on HCCI’s project on healthcare spending in North Carolina.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]},{"title":"Coronavirus by County","id":"coronavirus","date":"March 2020","type":"DataFace Original","filter":"all","role":"Design + Development + Copywriting","color":"#F2994A","team":"Jack Beckwith + Michael Hester","links":[{"text":"Launch","href":"https://thedataface.com/2020/04/public-health/coronavirus-by-county"}],"description":[{"type":"text","value":"Michael Hester, Jack Beckwith, and I put this coronavirus tracker together in a couple of days in March. It uses the New York Times newly released coronavirus by county data."}]},{"title":"Yelp&rsquo;s Coronavirus Economic Impact Report","id":"yelp-covid","date":"March 2020","type":"Yelp","type-icon":"star","filter":"all","role":"Design + Development + Copywriting","color":"#EB5757","team":"Jack Beckwith + Michael Hester","client":"Yelp <i class=\"fa-thin fa-xmark\"></i> The DataFace","awards":[{"icon":"star","text":"Featured in Washington Post, Forbes, and Business Insider"}],"links":[{"text":"Launch","href":"https://thedataface.com/2020/04/public-health/coronavirus-by-county"}],"description":[{"type":"text","value":"We worked with Yelp&rsquo;s communications team to design and build a special economic impact report focusing on the effects of the COVID-19 pandemic across the United States. We released regular updates with interactive and static graphics, the last of which in September."}]},{"title":"Block by Block","id":"block-by-block","date":"February 2020","type":"B6","client":"B6 <i class=\"fa-thin fa-xmark\"></i> THe DataFace","filter":"all","links":[{"text":"Q4 2019","href":"https://b6realestateadvisors.com/reports/block-by-block-4q19/"},{"text":"Q3 2019","href":"https://b6realestateadvisors.com/reports/block-by-block-3q19/"},{"text":"H1 2019","href":"https://b6realestateadvisors.com/reports/block-by-block-1h19/"},{"text":"Q1 2019","href":"https://b6realestateadvisors.com/reports/block-by-block-1q19/"}],"role":"Design + Development","color":"#219653","description":[{"type":"text","value":"B6 Real Estate Advisors tasked us with bringing their regular quarterly reports to life, making use of interactive data viz and storytelling. We worked with them to publish 4 quarterly reports and one predicitions report."}]},{"title":"Why We Run","id":"why-we-run","date":"January 2020","type":"Strava","filter":"selected","selected":"2","links":[{"text":"Check it out","href":"https://whywerun.strava.com/"}],"role":"Design + Development","client":"Strava <i class=\"fa-thin fa-xmark\"></i> The DataFace <i class=\"fa-thin fa-xmark\"></i> Polygraph","color":"#F2994A","dark":"true;","bg":"black","description":[{"type":"text","value":"Strava is a social network for fitness, home to millions of runners, cyclists, and performance athletes. With access to such a large group of avid runners who use the app to track their progress and connect with others, Strava found themselves with a ton of data and original research on the factors that motivate people to start and then keep running."},{"type":"text","value":"Strava hired us, along with Imprint Projects and Polygraph to build an experience that visualizes their findings. We combined their qualitative research with quantitative poll results to create a compelling, interactive narrative, with downloadable content and interactive elements, available in six languages."}],"media":[{"src":"portfolio/why-we-run/1.gif","alt":"Some of my work on Strava’s Why We Run.","size":"col-span-4 md:col-span-3"},{"src":"portfolio/why-we-run/2.png","alt":"Some of my work on Strava’s Why We Run.","size":"col-span-4 md:col-span-3 mt-8 hidden sm:block"},{"src":"portfolio/why-we-run/3.png","alt":"Some of my work on Strava’s Why We Run.","size":"col-span-4 md:col-span-3 mt-2 hidden md:block"},{"src":"portfolio/why-we-run/4.gif","alt":"Some of my work on Strava’s Why We Run.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"}]},{"title":"Yelp 15","id":"yelp-15","date":"September 2019","type":"Yelp","filter":"all","links":[{"text":"Launch","href":"https://yelp15.com/"}],"role":"Design + Development","client":"Yelp <i class=\"fa-thin fa-xmark\"></i> The DataFace","color":"#EB5757","description":[{"type":"text","value":"Yelp celebrated their 15th anniversary in September of 2019. We created this microsite (<a href=\"http://yelp15.com\">yelp15.com</a>) to help celebrate. Along with Yelp&rsquos data science team, we analyzed nearly 200m reviews and 15 years worth of search and consumer interest data to create six interactive explorations."},{"type":"text","value":"Check it out to explore the foods we consumed, the chains we cherished, the fads we followed, the language we used, the words that defined our cities, and the services we needed."}],"media":[{"src":"portfolio/yelp-15/1.png","alt":"Some of my work on Yelp 15.","size":"col-span-4 md:col-span-3"},{"src":"portfolio/yelp-15/2.png","alt":"Some of my work on Yelp 15.","size":"col-span-4 md:col-span-3 mt-8 hidden sm:block"},{"src":"portfolio/yelp-15/3.png","alt":"Some of my work on Yelp 15.","size":"col-span-4 md:col-span-3 mt-2 hidden md:block"},{"src":"portfolio/yelp-15/4.png","alt":"Some of my work on Yelp 15.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"}]},{"title":"America&rsquo;s Favorite Summer Drinks","id":"summer-drinks","date":"June 2019","type":"Yelp","filter":"all","links":[{"text":"Check it out in Glamour","href":"https://www.glamour.com/story/most-popular-summer-cocktails-in-every-city"}],"role":"Design + Illustration","client":"Yelp <i class=\"fa-thin fa-xmark\"></i> The DataFace","team":"Michael Hester","color":"#F2C94C","description":[{"type":"text","value":"I designed a set of versatile and custom icons for Yelp&rsquo;s piece on America&rsquo;s Favorite Summer Drinks for 2019."}],"media":[{"src":"portfolio/summer-drinks/1.png","size":"col-span-4 md:col-span-12"}]},{"title":"The NBA&rsquo;s Best Drafting Teams","id":"nba","date":"June 2019","type":"DataFace Original","filter":"all","links":[{"text":"Read the article","href":"https://thedataface.com/2019/06/sports/best-drafting-nba-teams"}],"team":"Michael Hester","role":"Illustration","color":"#56CCF2","description":[{"type":"text","value":"I illustrated a series of rookie cards for Michael Hester&rsquo;s article on the NBA draft."}],"media":[{"src":"portfolio/nba/1.png","size":"col-span-4 md:col-span-12"}]},{"title":"The Irregular Outfields of Baseball","id":"irregular-outfields","date":"April 2019","type":"DataFace Original","type-icon":"award-simple","filter":"selected","selected":"0","links":[{"text":"Check it out","href":"http://thedataface.com/2019/04/sports/baseballs-irregular-outfields"}],"role":"Design + Development + Writing","color":"#6FCF97","awards":[{"icon":"award-simple","text":"Information is Beautiful Awards 2019 Bronze Winner"}],"description":[{"type":"text","value":"Baseball is a sport rooted in rules and regulations. Everything in the game is standardized, planned, and coordinated, based on a guideline or precedent. Everything, that is, but the park itself: outfield sizes and wall heights vary across the entire league. There are 30 MLB stadiums. No two of them are alike."},{"type":"text","value":"The inconsistencies and idiosyncrasies of pro baseball fields have fascinated me for years. In this piece, the first in a series on the irregular outfields of baseball and my first original for the DataFace, I look at the seven different types of MLB parks, what makes them distinct, and where the varying sizes in their outfields come from."}],"media":[{"src":"portfolio/irregular-outfields/Outfields.png","alt":"A collection of illustrations I did for my project on the irregular outfields of baseball, based on a few major league baseball stadiums.","size":"col-span-4 md:col-span-3"},{"src":"portfolio/irregular-outfields/Outfields-1.gif","alt":"An animated gif highlighting elements of my project on the irregular outfields of baseball.","size":"col-span-4 md:col-span-3 mt-8 hidden sm:block"},{"src":"portfolio/irregular-outfields/Outfields-2.gif","alt":"An animated gif highlighting elements of my project on the irregular outfields of baseball.","size":"col-span-4 md:col-span-3 mt-2 hidden md:block"},{"src":"portfolio/irregular-outfields/Outfields-2.png","alt":"An illustration I did for my project on the irregular outfields of baseball.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"}]},{"title":"Who is the biggest pop star?","id":"biggest-pop-star","date":"February 2019","type":"Pudding Original","filter":"all","links":[{"text":"Check it out","href":"https://pudding.cool/2019/03/pop-music/"}],"role":"Design + Development","team":"Jack Beckwith + Michael Hester","color":"#F2C94C","description":[{"type":"text","value":"We worked with the folks at the Pudding to determine who the world&rsquo;s biggest pop star is, using a variety of different methods."}],"media":[{"src":"portfolio/biggest-pop-star/1.png","size":"col-span-4 md:col-span-12"}]},{"title":"Globalography: Our Interconnected World Revealed in 50 Maps","id":"globalography","date":"November 2018","type":"Print Original","filter":"selected","selected":"6","color":"#F2C94C","dark":"true","bg":"gray-900","links":[{"text":"Buy it","href":"https://www.amazon.ca/Globalography-Interconnected-World-revealed-Maps/dp/1781317917"}],"description":[{"type":"text","value":"&ldquo;Explore how cities are expanding beyond the reach of their nations, uncover the ways bananas, cobalt, and water bottles link the most unlikely of places, and discover how modern phenomena such as messenger apps and sharing platforms are changing not just our interactions, but how we interconnect."},{"type":"text","value":"&ldquo;Globalography uncovers the myriad ways we can now connect with one another and in doing so, showcases the radical way globalization is transforming our world.&rdquo;"},{"type":"text","value":"I worked with Quarto editors to create 50+ maps for this book (and the cover) on our interconnected world, which features essays by author Chris Fitch."}],"media":[{"src":"portfolio/globalography/1.jpeg","alt":"Part of my book on our interconnected book.","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/globalography/4.png","alt":"Part of my book on our interconnected book.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/globalography/2.png","alt":"Part of my book on our interconnected book.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/globalography/3.png","alt":"Part of my book on our interconnected book.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]},{"title":"The Winningest Cities in North American Sports","id":"titletowns","date":"November 2018","type":"Pudding Original","filter":"selected","selected":"3","client":"The Pudding","color":"#2D9CDB","links":[{"text":"Check it out","href":"https://pudding.cool/2018/11/titletowns/"}],"awards":[{"icon":"star","text":"Information is Beautiful Awards 2019 Longlist"}],"description":[{"type":"text","value":"After the Golden State Warriors won their third NBA championship in four years in 2018, I started thinking...Of all the cities to field a professional or college level team in the last 150 years, which is the winningest?"},{"type":"text","value":"I dug through a century of data to determine the titletown of all the North American titletowns, looking at 458 pro sports teams from MLB, NBA, NFL, NHL, MLS, and CFL, as well as 1,917 NCAA div one college teams. All told, these teams have represented 199 different cities, and competed for 996 titles since 1870."},{"type":"text","value":"This visual essay explores all the data through three lenses to determine the winningest city in North America, while allowing you to set your own parameters throughout."}],"media":[{"src":"portfolio/titletowns/Title.gif","alt":"What makes a titletown?","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/titletowns/case1.gif","alt":"An animated gif of the first chart in my project on North America’s winningest cities.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/titletowns/filter.png","alt":"A preview of the filters you can use throughout this project on North America’s winningest cities.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/titletowns/case2.png","alt":"The second chart in my project on North America’s winningest cities.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]},{"title":"Parental Leave in North America","id":"parental-leave","date":"March 2018","type":"DataFace Original","filter":"all","color":"#BB6BD9","links":[{"text":"Launch","href":"https://thedataface.com/2018/03/economy/parental-leave"}],"description":[{"type":"text","value":"During his first term as president, Bill Clinton passed the Family and Medical Leave Act, providing 12 weeks of federally-mandated unpaid leave to new parents. Since then, the need for parental leave and for flexibility has only grown. Yet federal policies haven’t changed."},{"type":"text","value":"This project, my first with the DataFace, examines how companies across the US compare, and how the US compares to the rest of the world."}]},{"title":"Visualizing Canada&rsquo;s Indian Residential Schools","id":"canada-residential-schools","date":"May 2017","type":"MSDV Thesis","type-icon":"star","filter":"selected","selected":"1","links":[{"text":"Take a look","href":"http://residentialschools.info/"}],"role":"Design + Development + Writing","color":"#F2994A","awards":[{"icon":"star","text":"Parsons Keynote Selection"},{"icon":"star","text":"AIGA New York Fresh Grad Selection"}],"description":[{"type":"text","value":"Canada&rsquo;s Indian Residential School System was a network of boarding schools, industrial schools, and federal hostels created to remove indigenous children from their homes, their families, and their cultures. While many schools originated long before Confederation in 1867, the system was primarily active following the approval of the Indian Act in 1876 — a group of laws aiming to do away with the Indian tribal system and forcibly enfranchise First Nations peoples — until the the last federally-operated school closed in 1996."},{"type":"text","value":"Only in recent years has information about the schools, often run by various religious sects, and their students welfare become public knowledge: physical and sexual abuse was rampang; malnourishment and poor living conditions were not uncommon; and assimilation, deprivation of cultural traditions, and punishment was the standard. It is estimated that 6000 children died while in attendance at an Indian Residential School."},{"type":"text","value":"<strong>We weren&rsquo;t taught this in school.</strong>"},{"type":"text","value":"This project, my thesis piece at Parsons School of Design, aims to investigate the IRS system visually, beginning with the stories of survivors and transitioning into the narrative of each school."}],"media":[{"src":"portfolio/IRS/Title.png","alt":"The title page for my Master’s thesis project on Canada’s Indian Residential Schools.","size":"col-span-4 md:col-span-3 hidden sm:block mt-4"},{"src":"portfolio/IRS/Map.png","alt":"A map showing all IRS locations I created for my Master’s thesis project on Canada’s Indian Residential Schools.","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/IRS/Stories1.png","alt":"The story selection view for my Master’s thesis project on Canada’s Indian Residential Schools.","size":"col-span-4 md:col-span-3 hidden sm:block mt-7"},{"src":"portfolio/IRS/School.png","alt":"A school detail page, part of my Master’s thesis project on Canada’s Indian Residential Schools.","size":"col-span-4 md:col-span-3 hidden md:block mt-4"}]},{"title":"Roma XXXVI","id":"Roma","date":"December 2014","filter":"all","color":"#000","description":[{"type":"text","value":"I spent three and a half months studying architecture in Roma and I did one sketch a day for 80 days. These are my favourites."}],"media":[{"src":"portfolio/roma/1.png","size":"col-span-12"},{"src":"portfolio/roma/2.png","size":"col-span-12"},{"src":"portfolio/roma/3.png","size":"col-span-12"},{"src":"portfolio/roma/4.png","size":"col-span-12"},{"src":"portfolio/roma/5.png","size":"col-span-12"},{"src":"portfolio/roma/6.png","size":"col-span-12"},{"src":"portfolio/roma/7.png","size":"col-span-12"}]},{"title":"A Chair for Dr Seuss","id":"dr-seuss","date":"November 2013","type":"Built Original","type-icon":"award-simple","filter":"selected","selected":"5","class":"ARCH 365: Structural Design","color":"#EB5757","links":[{"text":"Read the Storybook","href":"https://issuu.com/himynameissam/docs/astorybook_all"}],"awards":[{"icon":"star","text":"End of Year Show Selection"},{"icon":"award-simple","text":"Come Up To My Room 2013, Judge&rsquo;s Choice"}],"description":[{"type":"text","value":"For one of my final projects in my third year structural design course at architecture school, I was tasked with designing and building a chair for a famous person or character, while also proving its structural stability. I chose Dr Seuss."},{"type":"text","value":"Inspired by All the Places You&rsquo;ll Go, this simple stool breaks down into 6 pieces, ready to pack up and go. It also serves as a reminder that life is quite the balancing act. And the whole thing is written in rhyme."}],"media":[{"src":"portfolio/seuss/Title.png","alt":"A Chair for Dr. Suess: title page","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/seuss/Tile.jpeg","alt":"An array of photos of people trying to sit or balance on a chair I designed.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/seuss/Me.jpeg","alt":"An overlay of me sitting on a chair I designed.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/seuss/Book.jpeg","alt":"A preview of a couple pages in my book which details the chair I designed.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]},{"title":"The World of James Bond","id":"james-bond","date":"October 2016","type":"Print Original","type-icon":"star","filter":"selected","selected":"5","color":"#000000","dark":"true","bg":"black","awards":[{"icon":"award-simple","text":"Adobe Awards 2016, Semifinalist"},{"icon":"award-simple","text":"Information is Beautiful Awards 2016, Longlist"}],"links":[{"text":"See it live","href":"https://svickars.github.io/portfolio/allaboutthatbond/"},{"text":"PDF","href":"https://svickars.github.io/data/TheWorldOfJamesBond.pdf"}],"description":[{"type":"text","value":"<h3>Shaken. Not stirred.</h3>"},{"type":"text","value":"Ever wonder which James Bond made the most money? How about which actor flirted with Moneypenny the most? Or who killed the most henchmen? I have. So I did what anybody would do: I sat down with a martini and watched every 007 film (including the unofficial Never Say Never Again), and I got to know every actor, every recurring character, every gadget, every car, and every killer pun. Then I made this."},{"type":"text","value":"This map is the result of my undying need to know everything James Bond - from the number of ladies he kisses in each film, to the cities he visits, to the cars he drives. This map shows it all and the connections between each."}],"media":[{"src":"portfolio/bond/1.gif","alt":"A screenshot of my project about James Bond.","size":"col-span-4 md:col-span-3 -mt-2"},{"src":"portfolio/bond/2.png","alt":"A screenshot of my project about James Bond.","size":"col-span-4 md:col-span-3 mt-4 hidden sm:block"},{"src":"portfolio/bond/3.png","alt":"A screenshot of my project about James Bond.","size":"col-span-4 md:col-span-3 mt-7 hidden md:block"},{"src":"portfolio/bond/4.png","alt":"A screenshot of my project about James Bond.","size":"col-span-4 md:col-span-3 mt-3 hidden sm:block"}]}],"footer":{"email-text":"Say hi","email-link":"mailto:sam.vickars@gmail.com","links":[{"text":"Twitter","link":"https://twitter.com/samvickars"},{"text":"Instagram","link":"https://www.instagram.com/samvickars/"},{"text":"Github","link":"https://github.com/svickars"}]}}
+{
+  "headline": [
+    {
+      "type": "text",
+      "value": "Hi, I'm Sam. I tell visual stories using data, graphics, and interactivity."
+    },
+    {
+      "type": "text",
+      "value": "It's so nice to meet you."
+    }
+  ],
+  "pics": [
+    {
+      "src": "/moving-pictures/IzzyInTheSnow.gif",
+      "alt": "Here is my derp of a dog, Izzy, playing in the snow in Squamish, BC",
+      "width": "col-span-3 md:col-span-3"
+    },
+    {
+      "src": "/pictures/IzzyAtGraduation.jpg",
+      "alt": "My dog Izzy and I at her graduation from puppy school",
+      "width": "hidden md:block md:col-span-2 mt-8"
+    },
+    {
+      "src": "/pictures/Swinging.jpg",
+      "alt": "Here I am enjoying a rope swing on the beach at Cape Scott on Northern Vancouver Island",
+      "width": "hidden md:block col-span-2 mt-32"
+    },
+    {
+      "src": "/pictures/TheBoys.JPG",
+      "alt": "My brother, my dad, and I attending a Blue Jays game during the pandemic in Buffalo as cardboard cutouts",
+      "width": "col-span-2 md:col-span-3 -mt-8"
+    },
+    {
+      "src": "/pictures/IzzyAtChristmas.jpg",
+      "alt": "My dog, Izzy, dressed up for Christmas",
+      "width": "col-span-3 md:col-span-2 mt-8 md:mt-20"
+    }
+  ],
+  "lead": [
+    {
+      "type": "text",
+      "value": "I’m currently the design manager at <a href=\"http://thedataface.com\">The DataFace</a>, working remotely at the (maybe cliché) intersection of data science, journalism, design, and web development."
+    },
+    {
+      "type": "text",
+      "value": "In short, I am a designer who can code. Or maybe a coder who can design. I am based in Vancouver, BC."
+    }
+  ],
+  "intro": [
+    {
+      "type": "text",
+      "value": "I have a bachelor's degree from the University of Waterloo School of Architecture and a Master's of Science in Data Visualization from Parsons in NYC."
+    },
+    {
+      "type": "text",
+      "value": "I’m also an eight-time local pub trivia champion, along with my twin brother; the current scoring leader in one of the lowest-division adult hockey leagues in the city; an early pioneer of the Circle Line Pub Crawl; and a starting defenceman for the Scotland National Men’s Lacrosse team."
+    },
+    {
+      "type": "text",
+      "value": "You can see some of my work below and if you want to get in touch, you can email me at <a href=\"mailto:sam.vickars@gmail.com\">sam.vickars@gmail.com</a> — I’m almost always down for a chat. If you add me on Twitter, <a href=\"http://twitter.com/samvickars\">@samvickars</a>, I’ll probably follow you back."
+    }
+  ],
+  "conclusion": "I made this site using <a href=\"https://svelte.dev/\">Svelte</a>, and <a href=\"http://archieml.org/\">ArchieML</a> The whole thing runs off this <a href=\"https://docs.google.com/document/d/177gK8YFHelSyKMLUXL7aBzFTT0K04u3NV2534qq4xP4/edit\">Google Doc</a>. It's hosted on Github pages and uses Inter, a Google Font.",
+  "not-work": [
+    {
+      "src": "Advent-Calendar-1.jpg",
+      "title": "An advent calendar I made for my brother in law, ready to be filled with beers."
+    },
+    {
+      "src": "Advent-Calendar-2.jpg",
+      "title": "An advent calendar I made for my brother in law, ready to be filled with beers."
+    },
+    {
+      "src": "Advent-Calendar-3.jpg",
+      "title": "An advent calendar I made for my brother in law, ready to be filled with beers, with a secret back!"
+    },
+    {
+      "src": "Colour-Box-Bar.jpeg",
+      "title": "Colour Box Bar: a stationary bar I built for my new house."
+    },
+    {
+      "src": "Colour-Box-Bar-2.jpeg",
+      "title": "Colour Box Bar: a stationary bar I built for my new house."
+    },
+    {
+      "src": "Izzys-Big-Day.jpeg",
+      "title": "Izzy’s Big Day: My sweet girl at her graduation from (not a) puppy school."
+    },
+    {
+      "src": "West-Coast-Headboard.jpeg",
+      "title": "West Coast Headboard: a live-edge bed I built and installed."
+    },
+    {
+      "src": "San-Josef-Bay.jpeg",
+      "title": "San Josef Bay: a trip I took in summer 2020 to Cape Scott, where I camped on the beach at San Josef Bay."
+    },
+    {
+      "src": "Employee-of-the-Month.jpeg",
+      "title": "Meet Izzy, a 2, 3, or 4 year-old mutt I found wandering around the SPCA in Vancouver."
+    },
+    {
+      "src": "IIBA.png",
+      "title": "My brother and I celebrating my win at the Information is Beautiful Awards in 2019 in London."
+    },
+    {
+      "src": "Oscar-The-Grouch.png",
+      "title": "My nephew and I dressed as  a couple of grouches for Halloween: Oscar and Arnold."
+    },
+    {
+      "src": "Worlds.png",
+      "title": "World Box Lacrosse Championships 2019, Scottish National Team, #42"
+    },
+    {
+      "src": "Published.png",
+      "title": "My first published book, Globalography."
+    }
+  ],
+  "work": [
+    {
+      "title": "The Snacktime Report",
+      "id": "snacktime-reporrt",
+      "date": "February 2022",
+      "type": "Instacart",
+      "filter": "all",
+      "client": "Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design",
+      "color": "#FCA432",
+      "dark": "true",
+      "bg": "#792416",
+      "team": "Aria Todd",
+      "links": [
+        {
+          "text": "Check it",
+          "href": "#"
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/snacktime/1.png",
+          "alt": "Some of my work on Instacart’s Snacktime Report for the Big Game 2022.",
+          "size": "col-span-3 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/snacktime/2.png",
+          "alt": "Some of my work on Instacart’s Snacktime Report for the Big Game 2022.",
+          "size": "col-span-3 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/snacktime/3.png",
+          "alt": "Some of my work on Instacart’s Snacktime Report for the Big Game 2022.",
+          "size": "col-span-3 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/snacktime/4.png",
+          "alt": "Some of my work on Instacart’s Snacktime Report for the Big Game 2022.",
+          "size": "col-span-3 md:col-span-3 mt-3 hidden sm:block"
+        },
+        {
+          "src": "portfolio/snacktime/5.png",
+          "alt": "Some of my work on Instacart’s Snacktime Report for the Big Game 2022.",
+          "size": "col-span-3 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "Mapping Police Violence",
+      "id": "mapping-police-viollence",
+      "date": "January 2022",
+      "type": "Campaign Zero",
+      "filter": "selected",
+      "selected": "-3",
+      "client": "Campaign Zero <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "<strong>Design</strong> + Development",
+      "color": "#E87B58",
+      "team": "Michael Hester + Sawyer Click + Jack Beckwith + DeRay Mckesson + Katie Ryan + William Donahoe + Justin Kemerling + Abdul Nasser Rad",
+      "links": [
+        {
+          "text": "Explore the data",
+          "href": "https://www.mappingpoliceviolence.org"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "Given all incidents of police violence in the United States, Black people are almost 3 times more likely to be killed by police. What’s even more messed up than that stat is the fact that law enforcement agencies across the country fail to provide even basic information about the lives they take. So Campaign Zero is collecting the data themselves."
+        },
+        {
+          "type": "text",
+          "value": "I spent the first week of 2022 designing this dashboard for CZ’s Mapping Police Violence database, one of the richest and most in-depth of its kind. I then worked with their team (Deray Mckesson, Katie Ryan, William Donahoe, Justin Kemerling, and Abdul Nasser Rad) to refine every last piece so Michael Hester, Sawyer Click, and I could build the site from the ground up."
+        },
+        {
+          "type": "text",
+          "value": "The basic design of the dashboard is modular, made up of cards with location, time period, and victim filters and data viz elements. The plan is to continue to evolve the experience as the dataset grows, with fact check modules, more controls, and more in-depth analyses."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/mpv/1.png",
+          "alt": "Some of my work on Campaign Zero’s Mapping Police Violence dashboard.",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/mpv/2.png",
+          "alt": "Some of my work on Campaign Zero’s Mapping Police Violence dashboard.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/mpv/3.png",
+          "alt": "Some of my work on Campaign Zero’s Mapping Police Violence dashboard.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/mpv/4.png",
+          "alt": "Some of my work on Campaign Zero’s Mapping Police Violence dashboard.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "#2021Delivered",
+      "id": "2021-delivered",
+      "date": "December 2021",
+      "type": "Instacart",
+      "filter": "selected",
+      "selected": "-2",
+      "client": "Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Development + Copywriting",
+      "color": "#0E421D",
+      "team": "Jack Beckwith + Michael Hester + Aria Todd",
+      "links": [
+        {
+          "text": "Check it out",
+          "href": "https://www.instacart.com/2021-delivered/"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "We worked with Instacart’s PR, comms, marketing, and data science team to create this Spotify-wrapped-esque experience for Instacart’s customers, personalized to their locations."
+        },
+        {
+          "type": "text",
+          "value": "I designed the entire experience, with help from Michael Hester, Aria Todd, and the Instacart marketing team, and worked with Michael Hester to develop the project in the weeks leading up to December, 2021."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/2021-delivered/1.png",
+          "alt": "Some of my work on Instacart’s 2021 delivered experience.",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/2021-delivered/2.png",
+          "alt": "Some of my work on Instacart’s 2021 delivered experience.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/2021-delivered/3.png",
+          "alt": "Some of my work on Instacart’s 2021 delivered experience.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/2021-delivered/4.png",
+          "alt": "Some of my work on Instacart’s 2021 delivered experience.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "The Yelp Economic Average",
+      "id": "yelp-economic-average",
+      "date": "July 2021",
+      "type": "Yelp",
+      "client": "Yelp <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Development",
+      "color": "#EB5757",
+      "team": "Jack Beckwith + Michael Hester + Yelp Comms Team + Yelp Data Science Team",
+      "links": [
+        {
+          "text": "Explore",
+          "href": "https://yelpeconomicaverage.com"
+        }
+      ],
+      "awards": [
+        {
+          "icon": "star",
+          "text": "PRWeek US 2021 Winner: Data Insight"
+        },
+        {
+          "icon": "hand-point-right",
+          "text": "Featured in the Wall Street Journal, New York Times, Bloomberg and Axios, and on CNN, CNBC, and CBS This Morning"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "The Yelp Economic Average tracks the performance of local economies across the United States using Yelp data. The DataFace has been working with Yelp’s communications team to produce data-driven stories since 2018, including quarterly YEA reports."
+        },
+        {
+          "type": "text",
+          "value": "Since I joined the team, w’ve been responsible for two annual reports, six special reports, and countless quarterly reports. We also designed and built <a href=\"http://yelpeconomicaverage.com\">yelpeconomicaverage.com</a>, the new home for YEA. Each report combines interactive and static data viz and graphics, with copy written by the Yelp team."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/yea/1.png",
+          "alt": "Some of my work on Yelp’s Economic Average.",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/yea/2.png",
+          "alt": "Some of my work on Yelp’s Economic Average.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/yea/3.png",
+          "alt": "Some of my work on Yelp’s Economic Average.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/yea/4.png",
+          "alt": "Some of my work on Yelp’s Economic Average.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "FreeKeithDavisJr",
+      "id": "keith-davis-jr",
+      "date": "July 2021",
+      "type": "Campaign Zero",
+      "filter": "selected",
+      "selected": "-1",
+      "client": "Campaign Zero <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Development + Copywriting",
+      "color": "#F2C94C",
+      "dark": "true",
+      "bg": "black",
+      "team": "Jack Beckwith + Michael Hester + Aria Todd + Omar Nema + DeRay Mckesson + Katie Ryan",
+      "links": [
+        {
+          "text": "See the Site",
+          "href": "https://keithdavisjr.com/"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "Keith Davis Jr. was cornered by police in a West Baltimore garage in 2015, where they shot at him 44 times, striking him multiple times. Keith Davis Jr. was supposed to die, but instead he’s endured trial after trial, simply for surviving."
+        },
+        {
+          "type": "text",
+          "value": "Baltimore’s state attorney Marilyn Mosby chose to protect the officers and prosecute Keith for crimes he did not commit. For more than 6 years, Keith has been the victim of inconsistent testimony, tampered evidence, and unjust trials."
+        },
+        {
+          "type": "text",
+          "value": "We teamed up with Campaign Zero to create this website, where we walk through Keith Davis’s last 6 years: the charges he’s faced, the trials he’s endured, and the web of inconsistencies in the evidence presented against him (cue this <a href=\"https://media.giphy.com/media/l0IykOsxLECVejOzm/giphy.gif\">gif</a>)."
+        },
+        {
+          "type": "text",
+          "value": "I played a big role in the design of the site, along with Aria Todd, and the development, with Michael Hester and Omar Nema."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/keith-davis-jr/1.gif",
+          "alt": "Some of my work on Campaign Zero’s Free Keith Davis Jr. project."
+        },
+        {
+          "src": "portfolio/keith-davis-jr/2.png",
+          "alt": "Some of my work on Campaign Zero’s Free Keith Davis Jr. project."
+        },
+        {
+          "src": "portfolio/keith-davis-jr/3.png",
+          "alt": "Some of my work on Campaign Zero’s Free Keith Davis Jr. project."
+        },
+        {
+          "src": "portfolio/keith-davis-jr/4.png",
+          "alt": "Some of my work on Campaign Zero’s Free Keith Davis Jr. project."
+        }
+      ]
+    },
+    {
+      "title": "America’s Favorite Ice Cream",
+      "id": "we-all-scream-for-ice-cream",
+      "date": "May 2021",
+      "type": "Instacart",
+      "client": "Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Data Analysis",
+      "color": "#0AAD0A",
+      "team": "Jack Beckwith + Michael Hester + Catalina Perez",
+      "description": [],
+      "media": [
+        {
+          "src": "portfolio/we-all-scream-for-ice-cream/1.png",
+          "alt": "A map of America’s favourite ice cream flavours.",
+          "size": "col-span-4 md:col-span-12 -mt-2"
+        }
+      ]
+    },
+    {
+      "title": "America’s Favorite Halloween Candy",
+      "id": "halloween-candy",
+      "date": "October 2021",
+      "type": "Instacart",
+      "client": "Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Data Analysis",
+      "color": "#0AAD0A",
+      "team": "Jack Beckwith + Michael Hester + Aria Todd",
+      "description": [],
+      "media": [
+        {
+          "src": "portfolio/instacart-halloween/1.png",
+          "alt": "Some of my work for Instacart’s project on America’s favourite halloween candies",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/instacart-halloween/2.png",
+          "alt": "Some of my work for Instacart’s project on America’s favourite halloween candies",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/instacart-halloween/3.png",
+          "alt": "Some of my work for Instacart’s project on America’s favourite halloween candies",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/instacart-halloween/4.png",
+          "alt": "Some of my work for Instacart’s project on America’s favourite halloween candies",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        }
+      ]
+    },
+    {
+      "title": "Pumpkin Spiced America",
+      "id": "pumpkin-spice",
+      "date": "September 2021",
+      "type": "Instacart",
+      "client": "Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Data Analysis",
+      "color": "#BC5B12",
+      "team": "Jack Beckwith + Michael Hester + Aria Todd",
+      "description": [],
+      "media": [
+        {
+          "src": "portfolio/instacart-pumpkin-spiced/1.png",
+          "alt": "Some of my work for Instacart’s project on America’s love of pumpkin-spiced everything",
+          "size": "col-span-4 md:col-span-12 -mt-2"
+        }
+      ]
+    },
+    {
+      "title": "Controversial Condiments",
+      "id": "controversial-condiments",
+      "date": "September 2021",
+      "type": "Instacart",
+      "client": "Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Data Analysis",
+      "color": "#EB3A38",
+      "team": "Jack Beckwith + Michael Hester + Aria Todd",
+      "description": [],
+      "media": [
+        {
+          "src": "portfolio/controversial-condiments/1.png",
+          "alt": "Some of my work for Instacart’s project on America’s favourite condiments and sauces",
+          "size": "col-span-4 md:col-span-12 -mt-2"
+        }
+      ]
+    },
+    {
+      "title": "The Retirement Security Report",
+      "id": "equable-rsr",
+      "date": "June 2021",
+      "type": "Equable",
+      "filter": "all",
+      "client": "Equable <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Development",
+      "color": "#2D9CDB",
+      "team": "Jack Beckwith + Michael Hester + Aria Todd",
+      "links": [
+        {
+          "text": "Check out the report",
+          "href": "https://equable.org/rsr/"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "Equable is a bipartisan, collaborative organization sitting on a wealth of data on pensions and retirement plans across the United States."
+        },
+        {
+          "type": "text",
+          "value": "The Equable team reached out to us looking to create what they called the Retirement Security Report. They analyzed 335 retirement plans across 50 states + D.C. across 11 metrics to determine if plans are providing a path to retirement income security for all public workers."
+        },
+        {
+          "type": "text",
+          "value": "We went above and beyond, creating a fully interactive report with a downloadable PDF, retirement savings calculator, and integrated data viz."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/equable-rsr/1.png",
+          "alt": "Some of my work on Equable’s Retirement Security Report.",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/equable-rsr/2.png",
+          "alt": "Some of my work on Equable’s Retirement Security Report.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/equable-rsr/3.png",
+          "alt": "Some of my work on Equable’s Retirement Security Report.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/equable-rsr/4.png",
+          "alt": "Some of my work on Equable’s Retirement Security Report.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "Plant Power",
+      "id": "plant-based-report",
+      "date": "May 2021",
+      "type": "Instacart",
+      "client": "Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Data Analysis",
+      "color": "#0AAD0A",
+      "team": "Jack Beckwith + Michael Hester + Catalina Perez",
+      "links": [
+        {
+          "text": "Read the article",
+          "href": "https://www.instacart.com/company/blog/company-updates/plant-power-how-meat-and-milk-alternatives-are-taking-over-our-carts"
+        }
+      ],
+      "description": [],
+      "media": [
+        {
+          "src": "portfolio/plant-based-report/1.png",
+          "alt": "Some of my work on Instacart’s Plant Power report.",
+          "size": "col-span-4 md:col-span-4 -mt-2"
+        },
+        {
+          "src": "portfolio/plant-based-report/2.png",
+          "alt": "Some of my work on Instacart’s Plant Power report.",
+          "size": "col-span-4 md:col-span-4 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/plant-based-report/3.png",
+          "alt": "Some of my work on Instacart’s Plant Power report.",
+          "size": "col-span-4 md:col-span-4 mt-7 hidden md:block"
+        }
+      ]
+    },
+    {
+      "title": "STAATUS Index",
+      "id": "laaunch-staatus",
+      "date": "May 2021",
+      "type": "LAAUNCH",
+      "client": "LAAUNCH <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Development",
+      "color": "#EB5757",
+      "team": "Jack Beckwith + Michael Hester + Aria Todd + Catalina Perez",
+      "dark": "true",
+      "bg": "#111827",
+      "filter": "selected",
+      "selected": "2",
+      "links": [
+        {
+          "text": "Explore the digital site",
+          "href": "<a href=\"https://staatus-index.laaunch.org/\">https://staatus-index.laaunch.org/</a>"
+        },
+        {
+          "text": "Download the report",
+          "href": "https://assets.website-files.com/60a45c372eb2698f9ce47814/60cbd3f12cff2a5387e008ba_staatus-index-2021-final.pdf"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "We worked closely with LAAUNCH, a non profit fighting racism and increasing Asian American representaion, to bring life to their STAATUS Index."
+        },
+        {
+          "type": "text",
+          "value": "LAAUNCH surveyed thousands of Americans, asking questions like “how do people perceive the treatment of their own racial/ethnic group” and “When you think of prominent Asian Americans, what specific names come to mind, if any?” The results were eye-opening, and visualized here digitally and in a PDF."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/laaunch-staatus/1.png",
+          "alt": "Some of my work on LAAUNCH’s STAATUS index.",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/laaunch-staatus/2.png",
+          "alt": "Some of my work on LAAUNCH’s STAATUS index.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/laaunch-staatus/3.png",
+          "alt": "Some of my work on LAAUNCH’s STAATUS index.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/laaunch-staatus/4.png",
+          "alt": "Some of my work on LAAUNCH’s STAATUS index.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "Beyond the Cart: A Year of Essential Insights",
+      "id": "beyond-the-cart",
+      "date": "April 2021",
+      "type": "Instacart",
+      "client": "Instacart <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Data Analysis",
+      "color": "#0AAD0A",
+      "team": "Jack Beckwith + Michael Hester",
+      "links": [
+        {
+          "text": "Read the article",
+          "href": "https://news.instacart.com/beyond-the-cart-a-year-of-essential-insights-b6ac201228e6"
+        }
+      ],
+      "description": [],
+      "media": [
+        {
+          "src": "portfolio/beyond-the-cart/1.png",
+          "alt": "Some of my work on Instacart’s COVID-19 report.",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/beyond-the-cart.png",
+          "alt": "Some of my work on Instacart’s COVID-19 report.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/beyond-the-cart/3.png",
+          "alt": "Some of my work on Instacart’s COVID-19 report.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/beyond-the-cart/4.png",
+          "alt": "Some of my work on Instacart’s COVID-19 report.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "Let’s Play Mad Libs",
+      "id": "mad-libs",
+      "date": "December 2020",
+      "type": "Experiment",
+      "filter": "all",
+      "color": "#BB6BD9",
+      "links": [
+        {
+          "text": "Play",
+          "href": "https://svickars.github.io/mad-libs/"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "My first project using the Svelte JS framework, this fun little experiment really took me back. I used the Pudding’s Svelte Starter and Microsoft’s Dataset for Fill-in-the-Blank Humor."
+        }
+      ]
+    },
+    {
+      "title": "End All No-Knocks",
+      "id": "no-knocks",
+      "date": "November 2020",
+      "type": "Campaign Zero",
+      "filter": "selected",
+      "selected": "4",
+      "client": "Campaign Zero <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Development",
+      "color": "#56CCF2",
+      "team": "Jack Beckwith + Michael Hester + DeRay Mckesson + Katie Ryan + Justin Kemerling + Will Donahoe",
+      "links": [
+        {
+          "text": "See the Site",
+          "href": "https://endallnoknocks.org/"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "Breonna Taylor was one of many victims of senseless no-knock raids that happen across the US. While progress has been made to enact legislation to put a stop to no-knock raids, there is still plenty to do."
+        },
+        {
+          "type": "text",
+          "value": "We worked with Campaign Zero to design and build this interactive site that both maps case studies across the country and tracks legislation at the state, city, and federal levels."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/no-knocks/1.png",
+          "alt": "Some of my work on Campaign Zero’s End All No-Knocks project.",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/no-knocks/2.png",
+          "alt": "Some of my work on Campaign Zero’s End All No-Knocks project.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/no-knocks/3.png",
+          "alt": "Some of my work on Campaign Zero’s End All No-Knocks project.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/no-knocks/4.png",
+          "alt": "Some of my work on Campaign Zero’s End All No-Knocks project.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "#NIXTHE6: No More Cop Money",
+      "id": "nix-the-six",
+      "date": "September 2020",
+      "type": "Campaign Zero",
+      "filter": "all",
+      "client": "Campaign Zero <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Development",
+      "color": "#F2994A",
+      "team": "Jack Beckwith + Michael Hester + DeRay Mckesson + Katie Ryan",
+      "links": [
+        {
+          "text": "See the Site",
+          "href": "https://nixthe6.org/contributions/"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "Police unions have too much power. It’s time to hold them accountable."
+        },
+        {
+          "type": "text",
+          "value": "We worked with Campaign Zero to design and build an interactive map tracking political contributions from law enforcement across the United States, between 2015 and 2020."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/nix-the-six/1.png",
+          "alt": "Some of my work on Campaign Zero’s NixThe6 project.",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/nix-the-six/2.png",
+          "alt": "Some of my work on Campaign Zero’s NixThe6 project.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/nix-the-six/3.png",
+          "alt": "Some of my work on Campaign Zero’s NixThe6 project.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/nix-the-six/4.png",
+          "alt": "Some of my work on Campaign Zero’s NixThe6 project.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "Healthy Marketplace Index",
+      "id": "hcci",
+      "date": "August 2020",
+      "type": "HCCI",
+      "type-icon": "award-simple",
+      "filter": "all",
+      "client": "Health Care Cost Institute <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Development",
+      "color": "#2F80ED",
+      "team": "Jack Beckwith + Michael Hester",
+      "awards": [
+        {
+          "icon": "award-simple",
+          "text": "NIHCM Digital Media Awards 2021 Finalist"
+        },
+        {
+          "icon": "award-simple",
+          "text": "Information is Beautiful Awards 2019 Shortlist"
+        }
+      ],
+      "links": [
+        {
+          "text": "Launch",
+          "href": "https://healthcostinstitute.org/hcci-originals/hmi-interactive"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "The Health Cost Institute is a non-profit, healthcare research group based in Washington, D.C., working with grants from the Robert Wood Johnson Foundation. Throughout 2019 and 2020, we worked closely with their team and their data to design and build their Healthy Marketplace Index (HMI)."
+        },
+        {
+          "type": "text",
+          "value": "Made up of four fully interactive experiences (<a href=\"https://healthcostinstitute.org/hcci-originals/hmi-interactive#HMI-Price-Index\">Price</a>, <a href=\"https://healthcostinstitute.org/hcci-originals/hmi-interactive#HMI-Use-Index\">Use</a>, <a href=\"https://healthcostinstitute.org/hcci-originals/hmi-interactive#HMI-Price-and-Use\">Price vs Use</a>, and <a href=\"https://healthcostinstitute.org/hcci-originals/hmi-interactive#HMI-Concentration-Index\">Hospital Market Concentration</a>), as well as a <a href=\"https://healthcostinstitute.org/hcci-originals/hmi-interactive\">metro area snapshot</a> and several interactive dashboards, HMI uses nearly 2.5 billion commercial claims from 2013–2017 to track drivers of healthcare spending across 124 US metro areas."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/hcci/1.png",
+          "alt": "Some of my work on HCCI’s Healthy Marketplace Index.",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/hcci/2.png",
+          "alt": "Some of my work on HCCI’s Healthy Marketplace Index.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/hcci/3.png",
+          "alt": "Some of my work on HCCI’s Healthy Marketplace Index.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/hcci/4.png",
+          "alt": "Some of my work on HCCI’s Healthy Marketplace Index.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "The No Doubter Report",
+      "id": "no-doubt",
+      "date": "June 2020",
+      "type": "DataFace Original",
+      "filter": "selected",
+      "selected": "7",
+      "color": "#219653",
+      "links": [
+        {
+          "text": "Launch",
+          "href": "http://thedataface.com/2019/09/sports/no-doubter-report"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "Pro ballparks come in all shapes and sizes, sometimes due to the shape of the city block on which they were built, sometimes based on a team’s strengths (or weaknesses), and sometimes just to add character. Because their shapes differ, a home run hit in one park might not be a home run in another."
+        },
+        {
+          "type": "text",
+          "value": "That’s what inspired the No Doubter Report. In this project, I look at every home run hit this season to determine which were hit hard enough, long enough, and high enough to leave any major league ballpark, which we’ve dubbed “No Doubters”."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/nodoubt/nodoubt.gif",
+          "alt": "Screenshot of my project tracking No Doubters in the MLB.",
+          "size": "col-span-4 md:col-span-4 -mt-2"
+        },
+        {
+          "src": "portfolio/nodoubt/2.png",
+          "alt": "Screenshot of my project tracking No Doubters in the MLB.",
+          "size": "col-span-4 md:col-span-4 mt-7 hidden sm:block"
+        },
+        {
+          "src": "portfolio/nodoubt/3.png",
+          "alt": "Screenshot of my project tracking No Doubters in the MLB.",
+          "size": "col-span-4 md:col-span-4 mt-4 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "Healthcare Spending in North Carolina",
+      "id": "nc-healthcare",
+      "date": "June 2020",
+      "type": "HCCI x Duke",
+      "filter": "all",
+      "client": "Health Care Cost Institute <i class=\"fa-thin fa-xmark\"></i> Duke University <i class=\"fa-thin fa-xmark\"></i> Blue Cross Blue Shield NC <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "role": "Design + Development",
+      "color": "#2F80ED",
+      "dark": "true",
+      "bg": "#111827",
+      "team": "Jack Beckwith + Michael Hester",
+      "links": [
+        {
+          "text": "Launch",
+          "href": "https://healthcostinstitute.org/hcci-originals/north-carolina-health-care-spending-analysis"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "The Health Care Cost Institute (HCCI), a non-profit research group based in Washington D.C., in collaboration with researchers from Duke University’s Margolis Center for Health Policy and Blue Cross Blue Shield of North Carolina, tasked us with building a comprehensive data visualization experience to promote the research."
+        },
+        {
+          "type": "text",
+          "value": "We created a visual essay that walked readers through major findings, using interactivity, scrollytelling, and explorable and downloadable content."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/nc-healthcare/1.gif",
+          "alt": "Some of my work on HCCI’s project on healthcare spending in North Carolina.",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/nc-healthcare/2.png",
+          "alt": "Some of my work on HCCI’s project on healthcare spending in North Carolina.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/nc-healthcare/3.png",
+          "alt": "Some of my work on HCCI’s project on healthcare spending in North Carolina.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/nc-healthcare/4.png",
+          "alt": "Some of my work on HCCI’s project on healthcare spending in North Carolina.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "Coronavirus by County",
+      "id": "coronavirus",
+      "date": "March 2020",
+      "type": "DataFace Original",
+      "filter": "all",
+      "role": "Design + Development + Copywriting",
+      "color": "#F2994A",
+      "team": "Jack Beckwith + Michael Hester",
+      "links": [
+        {
+          "text": "Launch",
+          "href": "https://thedataface.com/2020/04/public-health/coronavirus-by-county"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "Michael Hester, Jack Beckwith, and I put this coronavirus tracker together in a couple of days in March. It uses the New York Times newly released coronavirus by county data."
+        }
+      ]
+    },
+    {
+      "title": "Yelp’s Coronavirus Economic Impact Report",
+      "id": "yelp-covid",
+      "date": "March 2020",
+      "type": "Yelp",
+      "type-icon": "star",
+      "filter": "all",
+      "role": "Design + Development + Copywriting",
+      "color": "#EB5757",
+      "team": "Jack Beckwith + Michael Hester",
+      "client": "Yelp <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "awards": [
+        {
+          "icon": "star",
+          "text": "Featured in Washington Post, Forbes, and Business Insider"
+        }
+      ],
+      "links": [
+        {
+          "text": "Launch",
+          "href": "https://thedataface.com/2020/04/public-health/coronavirus-by-county"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "We worked with Yelp’s communications team to design and build a special economic impact report focusing on the effects of the COVID-19 pandemic across the United States. We released regular updates with interactive and static graphics, the last of which in September."
+        }
+      ]
+    },
+    {
+      "title": "Block by Block",
+      "id": "block-by-block",
+      "date": "February 2020",
+      "type": "B6",
+      "client": "B6 <i class=\"fa-thin fa-xmark\"></i> THe DataFace",
+      "filter": "all",
+      "links": [
+        {
+          "text": "Q4 2019",
+          "href": "<a href=\"https://b6realestateadvisors.com/reports/block-by-block-4q19/\">https://b6realestateadvisors.com/reports/block-by-block-4q19/</a>"
+        },
+        {
+          "text": "Q3 2019",
+          "href": "https://b6realestateadvisors.com/reports/block-by-block-3q19/"
+        },
+        {
+          "text": "H1 2019",
+          "href": "https://b6realestateadvisors.com/reports/block-by-block-1h19/"
+        },
+        {
+          "text": "Q1 2019",
+          "href": "https://b6realestateadvisors.com/reports/block-by-block-1q19/"
+        }
+      ],
+      "role": "Design + Development",
+      "color": "#219653",
+      "description": [
+        {
+          "type": "text",
+          "value": "B6 Real Estate Advisors tasked us with bringing their regular quarterly reports to life, making use of interactive data viz and storytelling. We worked with them to publish 4 quarterly reports and one predicitions report."
+        }
+      ]
+    },
+    {
+      "title": "Why We Run",
+      "id": "why-we-run",
+      "date": "January 2020",
+      "type": "Strava",
+      "filter": "selected",
+      "selected": "2",
+      "links": [
+        {
+          "text": "Check it out",
+          "href": "https://whywerun.strava.com/"
+        }
+      ],
+      "role": "Design + Development",
+      "client": "Strava <i class=\"fa-thin fa-xmark\"></i> The DataFace <i class=\"fa-thin fa-xmark\"></i> Polygraph",
+      "color": "#F2994A",
+      "dark": "true;",
+      "bg": "black",
+      "description": [
+        {
+          "type": "text",
+          "value": "Strava is a social network for fitness, home to millions of runners, cyclists, and performance athletes. With access to such a large group of avid runners who use the app to track their progress and connect with others, Strava found themselves with a ton of data and original research on the factors that motivate people to start and then keep running."
+        },
+        {
+          "type": "text",
+          "value": "Strava hired us, along with Imprint Projects and Polygraph to build an experience that visualizes their findings. We combined their qualitative research with quantitative poll results to create a compelling, interactive narrative, with downloadable content and interactive elements, available in six languages."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/why-we-run/1.gif",
+          "alt": "Some of my work on Strava’s Why We Run.",
+          "size": "col-span-4 md:col-span-3"
+        },
+        {
+          "src": "portfolio/why-we-run/2.png",
+          "alt": "Some of my work on Strava’s Why We Run.",
+          "size": "col-span-4 md:col-span-3 mt-8 hidden sm:block"
+        },
+        {
+          "src": "portfolio/why-we-run/3.png",
+          "alt": "Some of my work on Strava’s Why We Run.",
+          "size": "col-span-4 md:col-span-3 mt-2 hidden md:block"
+        },
+        {
+          "src": "portfolio/why-we-run/4.gif",
+          "alt": "Some of my work on Strava’s Why We Run.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "Yelp 15",
+      "id": "yelp-15",
+      "date": "September 2019",
+      "type": "Yelp",
+      "filter": "all",
+      "links": [
+        {
+          "text": "Launch",
+          "href": "https://yelp15.com/"
+        }
+      ],
+      "role": "Design + Development",
+      "client": "Yelp <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "color": "#EB5757",
+      "description": [
+        {
+          "type": "text",
+          "value": "Yelp celebrated their 15th anniversary in September of 2019. We created this microsite (<a href=\"http://yelp15.com\">yelp15.com</a>) to help celebrate. Along with Yelp&rsquos data science team, we analyzed nearly 200m reviews and 15 years worth of search and consumer interest data to create six interactive explorations."
+        },
+        {
+          "type": "text",
+          "value": "Check it out to explore the foods we consumed, the chains we cherished, the fads we followed, the language we used, the words that defined our cities, and the services we needed."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/yelp-15/1.png",
+          "alt": "Some of my work on Yelp 15.",
+          "size": "col-span-4 md:col-span-3"
+        },
+        {
+          "src": "portfolio/yelp-15/2.png",
+          "alt": "Some of my work on Yelp 15.",
+          "size": "col-span-4 md:col-span-3 mt-8 hidden sm:block"
+        },
+        {
+          "src": "portfolio/yelp-15/3.png",
+          "alt": "Some of my work on Yelp 15.",
+          "size": "col-span-4 md:col-span-3 mt-2 hidden md:block"
+        },
+        {
+          "src": "portfolio/yelp-15/4.png",
+          "alt": "Some of my work on Yelp 15.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "America’s Favorite Summer Drinks",
+      "id": "summer-drinks",
+      "date": "June 2019",
+      "type": "Yelp",
+      "filter": "all",
+      "links": [
+        {
+          "text": "Check it out in Glamour",
+          "href": "https://www.glamour.com/story/most-popular-summer-cocktails-in-every-city"
+        }
+      ],
+      "role": "Design + Illustration",
+      "client": "Yelp <i class=\"fa-thin fa-xmark\"></i> The DataFace",
+      "team": "Michael Hester",
+      "color": "#F2C94C",
+      "description": [
+        {
+          "type": "text",
+          "value": "I designed a set of versatile and custom icons for Yelp’s piece on America’s Favorite Summer Drinks for 2019."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/summer-drinks/1.png",
+          "size": "col-span-4 md:col-span-12"
+        }
+      ]
+    },
+    {
+      "title": "The NBA’s Best Drafting Teams",
+      "id": "nba",
+      "date": "June 2019",
+      "type": "DataFace Original",
+      "filter": "all",
+      "links": [
+        {
+          "text": "Read the article",
+          "href": "https://thedataface.com/2019/06/sports/best-drafting-nba-teams"
+        }
+      ],
+      "team": "Michael Hester",
+      "role": "Illustration",
+      "color": "#56CCF2",
+      "description": [
+        {
+          "type": "text",
+          "value": "I illustrated a series of rookie cards for Michael Hester’s article on the NBA draft."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/nba/1.png",
+          "size": "col-span-4 md:col-span-12"
+        }
+      ]
+    },
+    {
+      "title": "The Irregular Outfields of Baseball",
+      "id": "irregular-outfields",
+      "date": "April 2019",
+      "type": "DataFace Original",
+      "type-icon": "award-simple",
+      "filter": "selected",
+      "selected": "0",
+      "links": [
+        {
+          "text": "Check it out",
+          "href": "<a href=\"http://thedataface.com/2019/04/sports/baseballs-irregular-outfields\">http://thedataface.com/2019/04/sports/baseballs-irregular-outfields</a>"
+        }
+      ],
+      "role": "Design + Development + Writing",
+      "color": "#6FCF97",
+      "awards": [
+        {
+          "icon": "award-simple",
+          "text": "Information is Beautiful Awards 2019 Bronze Winner"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "Baseball is a sport rooted in rules and regulations. Everything in the game is standardized, planned, and coordinated, based on a guideline or precedent. Everything, that is, but the park itself: outfield sizes and wall heights vary across the entire league. There are 30 MLB stadiums. No two of them are alike."
+        },
+        {
+          "type": "text",
+          "value": "The inconsistencies and idiosyncrasies of pro baseball fields have fascinated me for years. In this piece, the first in a series on the irregular outfields of baseball and my first original for the DataFace, I look at the seven different types of MLB parks, what makes them distinct, and where the varying sizes in their outfields come from."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/irregular-outfields/Outfields.png",
+          "alt": "A collection of illustrations I did for my project on the irregular outfields of baseball, based on a few major league baseball stadiums.",
+          "size": "col-span-4 md:col-span-3"
+        },
+        {
+          "src": "portfolio/irregular-outfields/Outfields-1.gif",
+          "alt": "An animated gif highlighting elements of my project on the irregular outfields of baseball.",
+          "size": "col-span-4 md:col-span-3 mt-8 hidden sm:block"
+        },
+        {
+          "src": "portfolio/irregular-outfields/Outfields-2.gif",
+          "alt": "An animated gif highlighting elements of my project on the irregular outfields of baseball.",
+          "size": "col-span-4 md:col-span-3 mt-2 hidden md:block"
+        },
+        {
+          "src": "portfolio/irregular-outfields/Outfields-2.png",
+          "alt": "An illustration I did for my project on the irregular outfields of baseball.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "Who is the biggest pop star?",
+      "id": "biggest-pop-star",
+      "date": "February 2019",
+      "type": "Pudding Original",
+      "filter": "all",
+      "links": [
+        {
+          "text": "Check it out",
+          "href": "https://pudding.cool/2019/03/pop-music/"
+        }
+      ],
+      "role": "Design + Development",
+      "team": "Jack Beckwith + Michael Hester",
+      "color": "#F2C94C",
+      "description": [
+        {
+          "type": "text",
+          "value": "We worked with the folks at the Pudding to determine who the world’s biggest pop star is, using a variety of different methods."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/biggest-pop-star/1.png",
+          "size": "col-span-4 md:col-span-12"
+        }
+      ]
+    },
+    {
+      "title": "Globalography: Our Interconnected World Revealed in 50 Maps",
+      "id": "globalography",
+      "date": "November 2018",
+      "type": "Print Original",
+      "filter": "selected",
+      "selected": "6",
+      "color": "#F2C94C",
+      "dark": "true",
+      "bg": "#111827",
+      "links": [
+        {
+          "text": "Buy it",
+          "href": "https://www.amazon.ca/Globalography-Interconnected-World-revealed-Maps/dp/1781317917"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "“Explore how cities are expanding beyond the reach of their nations, uncover the ways bananas, cobalt, and water bottles link the most unlikely of places, and discover how modern phenomena such as messenger apps and sharing platforms are changing not just our interactions, but how we interconnect."
+        },
+        {
+          "type": "text",
+          "value": "“Globalography uncovers the myriad ways we can now connect with one another and in doing so, showcases the radical way globalization is transforming our world.”"
+        },
+        {
+          "type": "text",
+          "value": "I worked with Quarto editors to create 50+ maps for this book (and the cover) on our interconnected world, which features essays by author Chris Fitch."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/globalography/1.jpeg",
+          "alt": "Part of my book on our interconnected book.",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/globalography/4.png",
+          "alt": "Part of my book on our interconnected book.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/globalography/2.png",
+          "alt": "Part of my book on our interconnected book.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/globalography/3.png",
+          "alt": "Part of my book on our interconnected book.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "The Winningest Cities in North American Sports",
+      "id": "titletowns",
+      "date": "November 2018",
+      "type": "Pudding Original",
+      "filter": "selected",
+      "selected": "3",
+      "client": "The Pudding",
+      "color": "#2D9CDB",
+      "links": [
+        {
+          "text": "Check it out",
+          "href": "https://pudding.cool/2018/11/titletowns/"
+        }
+      ],
+      "awards": [
+        {
+          "icon": "star",
+          "text": "Information is Beautiful Awards 2019 Longlist"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "After the Golden State Warriors won their third NBA championship in four years in 2018, I started thinking...Of all the cities to field a professional or college level team in the last 150 years, which is the winningest?"
+        },
+        {
+          "type": "text",
+          "value": "I dug through a century of data to determine the titletown of all the North American titletowns, looking at 458 pro sports teams from MLB, NBA, NFL, NHL, MLS, and CFL, as well as 1,917 NCAA div one college teams. All told, these teams have represented 199 different cities, and competed for 996 titles since 1870."
+        },
+        {
+          "type": "text",
+          "value": "This visual essay explores all the data through three lenses to determine the winningest city in North America, while allowing you to set your own parameters throughout."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/titletowns/Title.gif",
+          "alt": "What makes a titletown?",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/titletowns/case1.gif",
+          "alt": "An animated gif of the first chart in my project on North America’s winningest cities.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/titletowns/filter.png",
+          "alt": "A preview of the filters you can use throughout this project on North America’s winningest cities.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/titletowns/case2.png",
+          "alt": "The second chart in my project on North America’s winningest cities.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "Parental Leave in North America",
+      "id": "parental-leave",
+      "date": "March 2018",
+      "type": "DataFace Original",
+      "filter": "all",
+      "color": "#BB6BD9",
+      "links": [
+        {
+          "text": "Launch",
+          "href": "https://thedataface.com/2018/03/economy/parental-leave"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "During his first term as president, Bill Clinton passed the Family and Medical Leave Act, providing 12 weeks of federally-mandated unpaid leave to new parents. Since then, the need for parental leave and for flexibility has only grown. Yet federal policies haven’t changed."
+        },
+        {
+          "type": "text",
+          "value": "This project, my first with the DataFace, examines how companies across the US compare, and how the US compares to the rest of the world."
+        }
+      ]
+    },
+    {
+      "title": "Visualizing Canada’s Indian Residential Schools",
+      "id": "canada-residential-schools",
+      "date": "May 2017",
+      "type": "MSDV Thesis",
+      "type-icon": "star",
+      "filter": "selected",
+      "selected": "1",
+      "links": [
+        {
+          "text": "Take a look",
+          "href": "<a href=\"http://residentialschools.info/\">http://residentialschools.info/</a>"
+        }
+      ],
+      "role": "Design + Development + Writing",
+      "color": "#F2994A",
+      "awards": [
+        {
+          "icon": "star",
+          "text": "Parsons Keynote Selection"
+        },
+        {
+          "icon": "star",
+          "text": "AIGA New York Fresh Grad Selection"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "Canada’s Indian Residential School System was a network of boarding schools, industrial schools, and federal hostels created to remove indigenous children from their homes, their families, and their cultures. While many schools originated long before Confederation in 1867, the system was primarily active following the approval of the Indian Act in 1876 — a group of laws aiming to do away with the Indian tribal system and forcibly enfranchise First Nations peoples — until the the last federally-operated school closed in 1996."
+        },
+        {
+          "type": "text",
+          "value": "Only in recent years has information about the schools, often run by various religious sects, and their students welfare become public knowledge: physical and sexual abuse was rampang; malnourishment and poor living conditions were not uncommon; and assimilation, deprivation of cultural traditions, and punishment was the standard. It is estimated that 6000 children died while in attendance at an Indian Residential School."
+        },
+        {
+          "type": "text",
+          "value": "<strong>We weren’t taught this in school.</strong>"
+        },
+        {
+          "type": "text",
+          "value": "This project, my thesis piece at Parsons School of Design, aims to investigate the IRS system visually, beginning with the stories of survivors and transitioning into the narrative of each school."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/IRS/Title.png",
+          "alt": "The title page for my Master’s thesis project on Canada’s Indian Residential Schools.",
+          "size": "col-span-4 md:col-span-3 hidden sm:block mt-4"
+        },
+        {
+          "src": "portfolio/IRS/Map.png",
+          "alt": "A map showing all IRS locations I created for my Master’s thesis project on Canada’s Indian Residential Schools.",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/IRS/Stories1.png",
+          "alt": "The story selection view for my Master’s thesis project on Canada’s Indian Residential Schools.",
+          "size": "col-span-4 md:col-span-3 hidden sm:block mt-7"
+        },
+        {
+          "src": "portfolio/IRS/School.png",
+          "alt": "A school detail page, part of my Master’s thesis project on Canada’s Indian Residential Schools.",
+          "size": "col-span-4 md:col-span-3 hidden md:block mt-4"
+        }
+      ]
+    },
+    {
+      "title": "Roma XXXVI",
+      "id": "Roma",
+      "date": "December 2014",
+      "filter": "all",
+      "color": "#000",
+      "description": [
+        {
+          "type": "text",
+          "value": "I spent three and a half months studying architecture in Roma and I did one sketch a day for 80 days. These are my favourites."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/roma/1.png",
+          "size": "col-span-12"
+        },
+        {
+          "src": "portfolio/roma/2.png",
+          "size": "col-span-12"
+        },
+        {
+          "src": "portfolio/roma/3.png",
+          "size": "col-span-12"
+        },
+        {
+          "src": "portfolio/roma/4.png",
+          "size": "col-span-12"
+        },
+        {
+          "src": "portfolio/roma/5.png",
+          "size": "col-span-12"
+        },
+        {
+          "src": "portfolio/roma/6.png",
+          "size": "col-span-12"
+        },
+        {
+          "src": "portfolio/roma/7.png",
+          "size": "col-span-12"
+        }
+      ]
+    },
+    {
+      "title": "A Chair for Dr Seuss",
+      "id": "dr-seuss",
+      "date": "November 2013",
+      "type": "Built Original",
+      "type-icon": "award-simple",
+      "filter": "selected",
+      "selected": "5",
+      "class": "ARCH 365: Structural Design",
+      "color": "#EB5757",
+      "links": [
+        {
+          "text": "Read the Storybook",
+          "href": "https://issuu.com/himynameissam/docs/astorybook_all"
+        }
+      ],
+      "awards": [
+        {
+          "icon": "star",
+          "text": "End of Year Show Selection"
+        },
+        {
+          "icon": "award-simple",
+          "text": "Come Up To My Room 2013, Judge’s Choice"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "For one of my final projects in my third year structural design course at architecture school, I was tasked with designing and building a chair for a famous person or character, while also proving its structural stability. I chose Dr Seuss."
+        },
+        {
+          "type": "text",
+          "value": "Inspired by All the Places You’ll Go, this simple stool breaks down into 6 pieces, ready to pack up and go. It also serves as a reminder that life is quite the balancing act. And the whole thing is written in rhyme."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/seuss/Title.png",
+          "alt": "A Chair for Dr. Suess: title page",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/seuss/Tile.jpeg",
+          "alt": "An array of photos of people trying to sit or balance on a chair I designed.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/seuss/Me.jpeg",
+          "alt": "An overlay of me sitting on a chair I designed.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/seuss/Book.jpeg",
+          "alt": "A preview of a couple pages in my book which details the chair I designed.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    },
+    {
+      "title": "The World of James Bond",
+      "id": "james-bond",
+      "date": "October 2016",
+      "type": "Print Original",
+      "type-icon": "star",
+      "filter": "selected",
+      "selected": "5",
+      "color": "#000000",
+      "dark": "true",
+      "bg": "black",
+      "awards": [
+        {
+          "icon": "award-simple",
+          "text": "Adobe Awards 2016, Semifinalist"
+        },
+        {
+          "icon": "award-simple",
+          "text": "Information is Beautiful Awards 2016, Longlist"
+        }
+      ],
+      "links": [
+        {
+          "text": "See it live",
+          "href": "<a href=\"https://svickars.github.io/portfolio/allaboutthatbond/\">https://svickars.github.io/portfolio/allaboutthatbond/</a>"
+        },
+        {
+          "text": "PDF",
+          "href": "https://svickars.github.io/data/TheWorldOfJamesBond.pdf"
+        }
+      ],
+      "description": [
+        {
+          "type": "text",
+          "value": "<h3>Shaken. Not stirred.</h3>"
+        },
+        {
+          "type": "text",
+          "value": "Ever wonder which James Bond made the most money? How about which actor flirted with Moneypenny the most? Or who killed the most henchmen? I have. So I did what anybody would do: I sat down with a martini and watched every 007 film (including the unofficial Never Say Never Again), and I got to know every actor, every recurring character, every gadget, every car, and every killer pun. Then I made this."
+        },
+        {
+          "type": "text",
+          "value": "This map is the result of my undying need to know everything James Bond - from the number of ladies he kisses in each film, to the cities he visits, to the cars he drives. This map shows it all and the connections between each."
+        }
+      ],
+      "media": [
+        {
+          "src": "portfolio/bond/1.gif",
+          "alt": "A screenshot of my project about James Bond.",
+          "size": "col-span-4 md:col-span-3 -mt-2"
+        },
+        {
+          "src": "portfolio/bond/2.png",
+          "alt": "A screenshot of my project about James Bond.",
+          "size": "col-span-4 md:col-span-3 mt-4 hidden sm:block"
+        },
+        {
+          "src": "portfolio/bond/3.png",
+          "alt": "A screenshot of my project about James Bond.",
+          "size": "col-span-4 md:col-span-3 mt-7 hidden md:block"
+        },
+        {
+          "src": "portfolio/bond/4.png",
+          "alt": "A screenshot of my project about James Bond.",
+          "size": "col-span-4 md:col-span-3 mt-3 hidden sm:block"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "email-text": "Say hi",
+    "email-link": "mailto:sam.vickars@gmail.com",
+    "links": [
+      {
+        "text": "Twitter",
+        "link": "<a href=\"https://twitter.com/samvickars\">https://twitter.com/samvickars</a>"
+      },
+      {
+        "text": "Instagram",
+        "link": "https://www.instagram.com/samvickars/"
+      },
+      {
+        "text": "Github",
+        "link": "<a href=\"https://github.com/svickars\">https://github.com/svickars</a>"
+      }
+    ]
+  }
+}

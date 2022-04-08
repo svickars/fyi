@@ -1,7 +1,6 @@
 <script>
 	import random from '../../utils/random';
 
-	export let width;
 	export let title;
 	export let src;
 	export let i;
@@ -11,7 +10,7 @@
 </script>
 
 <div
-	class="relative {width} animate-pop-delay-{i} opacity-0"
+	class="relative animate-pop-delay-{i} opacity-0 w-full"
 	style="margin-top: {random(-12, 32)}px; min-height: {clientWidth * 0.75}px"
 >
 	<img

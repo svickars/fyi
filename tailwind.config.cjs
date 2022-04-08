@@ -39,6 +39,7 @@ module.exports = {
 			indigo: colors.indigo,
 			purple: colors.violet,
 			pink: colors.pink,
+			"cz-mpv": "#FDF2EE",
 		},
 		boxShadow: {
 			sm: '0 1px 2px 0 rgba(0, 0, 0, 0.05)',

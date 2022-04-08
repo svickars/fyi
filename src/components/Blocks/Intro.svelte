@@ -7,7 +7,7 @@
 		<div class="max-w-3xl mb-16">
 			{#each $markup.lead as text}
 				<h2
-					class="text-2xl font-normal leading-normal opacity-0 animate-pop-up-fast md:text-3xl md:leading-normal lg:text-4xl lg:leading-normal"
+					class="mb-4 text-2xl font-normal leading-normal opacity-0 animate-pop-up-fast md:text-3xl md:leading-normal lg:text-4xl lg:leading-normal"
 				>
 					{@html text.value}
 				</h2>
