@@ -1625,7 +1625,7 @@
     "links": [
       {
         "text": "Twitter",
-        "link": "<a href=\"https://twitter.com/samvickars\">https://twitter.com/samvickars</a>"
+        "link": "https://twitter.com/samvickars"
       },
       {
         "text": "Instagram",
@@ -1633,7 +1633,7 @@
       },
       {
         "text": "Github",
-        "link": "<a href=\"https://github.com/svickars\">https://github.com/svickars</a>"
+        "link": "https://github.com/svickars"
       }
     ]
   }
