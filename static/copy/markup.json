@@ -227,6 +227,21 @@
       "role": "Design + Development + Copywriting",
       "color": "#0E421D",
       "team": "Jack Beckwith + Michael Hester + Aria Todd",
+      "type-icon": "award-simple",
+      "awards": [
+        {
+          "icon": "award-simple",
+          "text": "Webby Awards, Finalist, Best Branded Editorial Experience 2022"
+        },
+        {
+          "icon": "award-simple",
+          "text": "Indigo Design Awards, Silver, Website Design"
+        },
+        {
+          "icon": "award-simple",
+          "text": "Indigo Design Awards, Bronze, Digital Ads + Campaigns"
+        }
+      ],
       "links": [
         {
           "text": "Check it out",
@@ -567,6 +582,17 @@
       "bg": "#111827",
       "filter": "selected",
       "selected": "2",
+      "type-icon": "award-simple",
+      "awards": [
+        {
+          "icon": "award-simple",
+          "text": "Indigo Design Awards, Gold, Infographics"
+        },
+        {
+          "icon": "award-simple",
+          "text": "Indigo Design Awards, Gold, Integrated Graphic Design"
+        }
+      ],
       "links": [
         {
           "text": "Explore the digital site",
